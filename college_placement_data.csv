@@ -1,0 +1,1501 @@
+StudentID,Year,Branch,Gender,CGPA,Backlogs,Internships,Projects,Certifications,AptitudeScore,CommunicationSkill,PlacementTraining,SSC_Marks,HSC_Marks,PlacementStatus,Salary_INR,CompanyName,JobCity
+1,2023,ECE,Male,8.29,0,1,4,1,68,Excellent,Yes,97,93,Placed,810781.0,HCL,Bangalore
+2,2021,BioTech,Male,6.31,0,0,2,2,59,Average,Yes,79,56,Not Placed,,,
+3,2021,EE,Male,6.92,0,0,3,2,53,Poor,Yes,90,55,Placed,628230.0,Capgemini,Chennai
+4,2024,ME,Male,6.71,0,1,1,2,71,Poor,Yes,70,61,Not Placed,,,
+5,2023,CSE,Male,7.43,1,1,2,1,99,Good,No,72,74,Placed,867680.0,Tech Mahindra,Pune
+6,2022,CSE,Male,7.06,0,1,2,1,89,Good,Yes,67,97,Placed,867187.0,HCL,Hyderabad
+7,2024,CSE,Male,8.66,0,1,3,0,66,Average,No,91,60,Placed,837017.0,Amazon,Bangalore
+8,2023,IT,Male,7.62,0,1,1,3,95,Average,Yes,81,90,Placed,803741.0,TCS,Hyderabad
+9,2023,ME,Female,7.48,0,0,4,2,64,Average,Yes,88,75,Placed,639466.0,IBM,Chennai
+10,2022,CE,Female,6.74,0,1,3,1,91,Good,Yes,65,89,Placed,767804.0,Paytm,Bangalore
+11,2024,CSE,Female,6.53,0,0,1,1,43,Poor,Yes,55,90,Not Placed,,,
+12,2023,BioTech,Female,7.42,0,0,3,3,60,Excellent,No,67,62,Placed,706685.0,Ola,Chennai
+13,2023,IT,Female,6.46,0,1,2,2,57,Average,No,84,58,Not Placed,,,
+14,2023,CSE,Male,7.75,0,2,2,1,78,Excellent,Yes,59,97,Placed,834295.0,Ola,Noida
+15,2022,CSE,Male,6.84,0,3,1,1,54,Average,No,72,70,Not Placed,,,
+16,2024,CSE,Male,9.19,2,1,2,1,92,Good,No,68,57,Placed,786857.0,Tech Mahindra,Gurugram
+17,2024,ECE,Female,8.14,0,0,2,3,77,Average,Yes,67,61,Placed,693646.0,Capgemini,Bangalore
+18,2024,ME,Female,7.28,0,0,2,2,87,Poor,No,86,56,Placed,672795.0,Accenture,Noida
+19,2024,ECE,Male,8.38,0,2,2,2,91,Excellent,Yes,61,55,Not Placed,,,
+20,2021,CSE,Female,7.21,0,1,2,3,63,Excellent,Yes,62,55,Placed,918578.0,Mindtree,Mumbai
+21,2021,ME,Male,7.63,0,1,2,4,47,Good,Yes,61,92,Placed,654496.0,Cognizant,Chennai
+22,2024,CSE,Female,7.94,0,2,0,1,67,Good,Yes,70,61,Placed,837927.0,Mindtree,Hyderabad
+23,2022,CSE,Male,7.98,1,1,3,1,60,Good,Yes,97,78,Placed,835674.0,Wipro,Noida
+24,2021,ECE,Male,8.39,0,2,2,1,55,Excellent,Yes,85,59,Placed,848378.0,HCL,Delhi
+25,2023,ECE,Male,8.01,0,0,1,0,99,Average,Yes,81,75,Placed,817360.0,Mphasis,Mumbai
+26,2021,EE,Male,7.7,1,1,1,2,93,Good,No,87,82,Placed,860981.0,Infosys,Gurugram
+27,2023,CSE,Male,6.64,2,2,2,3,55,Good,No,83,72,Placed,787673.0,Ola,Hyderabad
+28,2024,ME,Male,6.43,0,0,3,2,74,Average,No,62,78,Placed,711280.0,Hexaware,Hyderabad
+29,2021,ME,Female,7.1,0,1,1,1,56,Excellent,Yes,87,86,Placed,803679.0,Ola,Mumbai
+30,2022,CSE,Male,7.87,0,1,2,0,48,Average,Yes,95,87,Placed,761852.0,Mphasis,Chennai
+31,2021,ME,Male,6.3,0,3,0,1,96,Average,Yes,73,64,Placed,794857.0,Wipro,Bangalore
+32,2021,CSE,Female,9.49,0,0,2,3,74,Good,Yes,75,63,Placed,794076.0,Tech Mahindra,Mumbai
+33,2021,CSE,Female,8.86,0,1,4,1,91,Good,Yes,95,87,Placed,868161.0,Wipro,Chennai
+34,2024,BioTech,Male,7.68,1,0,3,0,68,Average,Yes,75,87,Not Placed,,,
+35,2022,BioTech,Male,7.26,0,1,1,1,78,Average,No,79,61,Placed,578333.0,HCL,Noida
+36,2021,EE,Male,7.35,0,0,2,4,57,Excellent,No,96,58,Placed,729840.0,Capgemini,Gurugram
+37,2022,ECE,Male,6.83,0,0,1,2,51,Average,Yes,77,82,Placed,557148.0,Mphasis,Pune
+38,2024,CSE,Female,7.85,1,1,2,3,58,Good,Yes,65,77,Placed,692254.0,Mphasis,Delhi
+39,2023,CE,Male,7.41,0,2,3,2,87,Good,No,87,86,Placed,735740.0,IBM,Mumbai
+40,2021,ECE,Male,6.63,1,0,3,2,61,Good,Yes,74,70,Not Placed,,,
+41,2022,CSE,Female,8.03,0,0,1,0,98,Excellent,Yes,79,64,Placed,889444.0,Wipro,Pune
+42,2022,ECE,Male,7.39,0,2,3,1,95,Good,Yes,80,68,Placed,878100.0,Ola,Chennai
+43,2024,CSE,Male,6.46,0,1,2,2,88,Good,Yes,94,93,Placed,838337.0,Accenture,Gurugram
+44,2021,IT,Male,7.2,0,2,1,3,91,Good,Yes,66,90,Placed,904225.0,Hexaware,Mumbai
+45,2023,CSE,Female,7.51,0,0,2,1,54,Good,No,86,88,Placed,673942.0,Ola,Chennai
+46,2022,CE,Male,8.71,0,1,2,0,40,Good,No,87,78,Placed,687042.0,Mindtree,Bangalore
+47,2021,ECE,Female,7.89,0,0,2,2,41,Excellent,Yes,64,72,Placed,832628.0,Tech Mahindra,Bangalore
+48,2023,ME,Male,6.13,1,0,2,1,47,Average,Yes,58,70,Placed,514717.0,Mindtree,Noida
+49,2022,ME,Male,7.59,0,1,2,2,61,Average,No,69,95,Placed,742384.0,Capgemini,Hyderabad
+50,2022,CSE,Female,6.72,0,1,1,1,64,Average,Yes,60,91,Not Placed,,,
+51,2023,BioTech,Female,8.07,0,2,3,1,41,Poor,Yes,81,95,Placed,744846.0,IBM,Delhi
+52,2023,EE,Female,7.17,1,1,2,1,90,Poor,Yes,59,79,Not Placed,,,
+53,2024,IT,Female,7.73,3,1,1,2,48,Excellent,Yes,59,62,Placed,827930.0,IBM,Gurugram
+54,2021,IT,Female,8.73,0,1,3,2,48,Good,No,72,78,Placed,830501.0,Hexaware,Gurugram
+55,2021,ME,Male,6.17,0,3,4,1,52,Good,No,82,74,Placed,686304.0,Cognizant,Mumbai
+56,2024,IT,Male,6.82,0,0,4,3,45,Good,Yes,89,84,Placed,744114.0,Cognizant,Chennai
+57,2022,CSE,Female,7.39,2,0,1,0,69,Excellent,Yes,76,74,Not Placed,,,
+58,2023,CSE,Male,8.53,1,1,1,0,54,Good,Yes,88,72,Placed,701302.0,Ola,Mumbai
+59,2023,CSE,Female,6.74,0,1,2,2,90,Excellent,Yes,58,58,Placed,906484.0,Amazon,Noida
+60,2023,ECE,Female,5.52,0,0,1,0,92,Average,No,72,90,Not Placed,,,
+61,2022,ECE,Male,7.18,0,2,4,2,54,Excellent,No,95,60,Placed,820219.0,Mphasis,Chennai
+62,2023,CSE,Male,8.19,0,0,1,4,89,Good,Yes,80,57,Placed,801050.0,Cognizant,Gurugram
+63,2023,IT,Female,8.64,1,2,1,2,46,Average,No,96,72,Placed,788950.0,Wipro,Bangalore
+64,2024,ECE,Male,7.18,0,0,2,2,97,Good,No,76,94,Placed,739975.0,HCL,Pune
+65,2022,CSE,Female,7.51,0,1,1,2,50,Good,No,87,72,Placed,754029.0,Accenture,Noida
+66,2021,ME,Male,8.12,1,2,3,1,79,Average,Yes,97,77,Not Placed,,,
+67,2024,CSE,Female,6.49,1,0,2,1,77,Good,Yes,68,89,Placed,756482.0,Wipro,Noida
+68,2024,EE,Male,7.23,0,3,1,1,79,Average,No,85,60,Placed,804284.0,Hexaware,Gurugram
+69,2021,CSE,Female,7.93,1,1,1,4,41,Poor,Yes,64,80,Not Placed,,,
+70,2024,BioTech,Male,7.56,0,3,2,1,90,Excellent,No,78,75,Placed,835668.0,Paytm,Mumbai
+71,2022,EE,Male,7.14,2,1,1,1,87,Good,No,75,78,Not Placed,,,
+72,2023,CSE,Male,7.82,1,1,2,3,78,Excellent,No,62,69,Placed,818742.0,Ola,Bangalore
+73,2022,CSE,Female,6.06,0,0,2,2,49,Good,Yes,86,81,Placed,709546.0,HCL,Mumbai
+74,2021,EE,Female,7.04,1,1,2,4,83,Average,No,85,86,Placed,639481.0,Mindtree,Hyderabad
+75,2021,CE,Male,7.56,2,0,4,2,56,Good,Yes,88,66,Placed,707025.0,L&T Infotech,Noida
+76,2024,EE,Male,6.81,0,0,3,1,46,Good,No,77,59,Not Placed,,,
+77,2022,EE,Male,7.54,0,0,4,3,93,Excellent,Yes,79,61,Placed,784923.0,Accenture,Gurugram
+78,2022,CSE,Female,8.11,1,1,1,1,79,Average,Yes,61,76,Placed,804392.0,TCS,Mumbai
+79,2021,ECE,Female,7.26,0,2,1,1,78,Excellent,No,73,81,Placed,967588.0,Paytm,Pune
+80,2022,CSE,Male,7.92,0,0,1,2,43,Excellent,Yes,61,69,Placed,760287.0,Paytm,Hyderabad
+81,2021,IT,Male,7.13,2,0,3,2,74,Good,Yes,62,93,Placed,874646.0,L&T Infotech,Chennai
+82,2022,CE,Male,7.03,1,1,4,3,90,Excellent,No,68,89,Placed,821532.0,Cognizant,Delhi
+83,2022,ECE,Male,7.93,0,0,3,4,86,Average,Yes,55,80,Placed,662403.0,Accenture,Bangalore
+84,2022,CSE,Male,7.91,0,0,1,3,75,Excellent,Yes,67,77,Placed,860869.0,Mindtree,Gurugram
+85,2021,ECE,Female,7.09,0,0,4,0,70,Good,Yes,57,67,Not Placed,,,
+86,2024,ECE,Male,7.66,0,2,2,2,64,Poor,No,82,80,Placed,806999.0,TCS,Hyderabad
+87,2022,EE,Female,8.0,0,2,0,2,80,Excellent,Yes,92,57,Placed,827654.0,Mphasis,Mumbai
+88,2021,CE,Male,5.56,1,1,2,4,52,Good,Yes,69,83,Placed,660959.0,Tech Mahindra,Bangalore
+89,2021,IT,Male,8.61,0,1,0,1,57,Good,Yes,90,56,Placed,862841.0,Tech Mahindra,Hyderabad
+90,2022,ECE,Female,7.26,0,1,2,1,60,Good,Yes,57,82,Placed,688393.0,Wipro,Gurugram
+91,2022,CSE,Female,8.1,0,1,1,3,87,Average,Yes,58,77,Placed,752320.0,Wipro,Pune
+92,2024,CE,Female,8.16,3,1,2,1,40,Good,Yes,59,90,Placed,742745.0,Cognizant,Gurugram
+93,2021,EE,Male,6.54,0,1,2,2,75,Excellent,Yes,80,60,Placed,748759.0,Ola,Pune
+94,2021,ME,Male,6.63,0,0,3,1,89,Poor,Yes,79,65,Not Placed,,,
+95,2023,EE,Female,7.3,0,0,2,1,47,Average,Yes,64,92,Placed,625313.0,Capgemini,Noida
+96,2021,ECE,Male,6.95,0,1,2,2,91,Poor,No,62,88,Not Placed,,,
+97,2024,ME,Male,8.59,0,2,3,1,87,Good,Yes,66,71,Placed,742277.0,IBM,Chennai
+98,2023,ECE,Male,6.9,0,1,3,2,60,Good,Yes,57,57,Placed,643926.0,L&T Infotech,Noida
+99,2023,CSE,Male,7.41,0,2,1,0,82,Good,Yes,81,88,Placed,852785.0,Mphasis,Gurugram
+100,2023,CSE,Female,7.94,0,3,2,1,91,Excellent,Yes,77,76,Placed,979153.0,Paytm,Gurugram
+101,2022,CSE,Male,6.96,0,0,1,1,92,Good,No,94,83,Not Placed,,,
+102,2022,CE,Male,6.88,0,1,0,2,92,Average,No,87,83,Not Placed,,,
+103,2021,ECE,Male,7.72,0,1,2,1,60,Excellent,Yes,68,59,Placed,833447.0,HCL,Chennai
+104,2023,ME,Male,6.93,0,3,3,2,66,Good,Yes,77,64,Placed,815156.0,Tech Mahindra,Hyderabad
+105,2024,IT,Male,7.73,0,3,1,2,58,Good,Yes,85,64,Placed,927265.0,Mindtree,Bangalore
+106,2022,CSE,Male,7.43,0,1,3,2,62,Good,Yes,67,63,Placed,726554.0,Ola,Chennai
+107,2024,ECE,Male,6.44,1,0,3,2,90,Excellent,No,66,75,Placed,850846.0,Tech Mahindra,Bangalore
+108,2024,EE,Female,7.73,0,2,3,1,89,Good,Yes,89,67,Placed,799325.0,Wipro,Bangalore
+109,2022,CSE,Male,9.03,0,0,1,1,90,Average,Yes,72,64,Placed,698891.0,Tech Mahindra,Hyderabad
+110,2022,CSE,Male,7.81,0,2,3,2,82,Good,Yes,75,92,Placed,898191.0,Infosys,Delhi
+111,2022,CSE,Female,7.96,3,2,1,0,74,Poor,Yes,96,65,Not Placed,,,
+112,2022,CSE,Female,8.28,2,1,2,3,79,Average,No,55,58,Not Placed,,,
+113,2023,IT,Male,6.91,0,1,0,3,91,Good,Yes,92,85,Placed,843272.0,Wipro,Chennai
+114,2023,EE,Male,8.69,0,1,0,1,90,Average,No,95,88,Placed,797884.0,Capgemini,Gurugram
+115,2023,CE,Male,7.36,0,1,2,2,81,Poor,Yes,96,96,Placed,676891.0,IBM,Pune
+116,2023,IT,Female,8.94,0,1,2,3,87,Average,Yes,63,89,Placed,828006.0,Zomato,Chennai
+117,2021,EE,Female,6.99,0,2,1,1,44,Good,Yes,77,93,Placed,698322.0,Zomato,Noida
+118,2023,CSE,Female,9.07,1,3,1,2,91,Excellent,No,68,93,Placed,1009567.0,IBM,Hyderabad
+119,2022,IT,Male,8.34,0,3,2,0,80,Excellent,Yes,65,87,Placed,1009546.0,HCL,Noida
+120,2024,ME,Female,7.64,2,0,0,2,47,Average,Yes,61,62,Not Placed,,,
+121,2023,EE,Male,7.66,0,2,3,3,50,Good,No,85,86,Placed,781907.0,Mphasis,Noida
+122,2021,IT,Male,7.63,1,1,0,2,55,Excellent,Yes,78,87,Placed,898100.0,Amazon,Gurugram
+123,2022,ECE,Male,8.34,1,0,1,2,78,Average,No,80,62,Not Placed,,,
+124,2024,CSE,Female,7.9,0,0,1,3,86,Good,Yes,84,68,Placed,767617.0,Infosys,Hyderabad
+125,2024,CSE,Male,6.42,0,0,2,2,63,Good,No,88,88,Placed,676770.0,Infosys,Noida
+126,2023,ECE,Female,6.72,0,2,1,2,60,Poor,Yes,92,62,Not Placed,,,
+127,2024,EE,Male,7.37,0,1,1,2,91,Excellent,No,59,96,Not Placed,,,
+128,2023,IT,Male,8.02,0,1,4,2,62,Excellent,No,59,61,Placed,801754.0,Mindtree,Hyderabad
+129,2023,CSE,Male,7.76,0,0,2,3,88,Poor,Yes,73,67,Placed,672670.0,Tech Mahindra,Chennai
+130,2022,ME,Male,8.18,0,1,0,4,77,Poor,No,92,75,Placed,672188.0,IBM,Gurugram
+131,2022,ECE,Female,6.13,2,0,2,2,86,Poor,No,82,86,Not Placed,,,
+132,2021,CSE,Male,7.9,0,1,3,2,47,Average,Yes,80,65,Placed,849213.0,Cognizant,Noida
+133,2022,CSE,Female,6.53,3,1,1,0,46,Good,Yes,96,68,Placed,697530.0,Accenture,Mumbai
+134,2022,ECE,Female,8.03,0,0,0,3,41,Good,Yes,77,65,Placed,743516.0,Flipkart,Chennai
+135,2023,BioTech,Female,7.12,1,2,3,2,69,Average,No,84,56,Placed,701074.0,Wipro,Gurugram
+136,2022,ECE,Male,7.79,0,0,2,2,52,Excellent,No,57,88,Placed,766319.0,Ola,Hyderabad
+137,2023,ME,Male,6.51,0,1,2,1,62,Average,Yes,82,71,Placed,641369.0,Infosys,Bangalore
+138,2023,CE,Male,8.22,2,1,0,3,68,Poor,Yes,87,68,Placed,774075.0,Wipro,Chennai
+139,2022,ECE,Female,8.23,0,1,1,0,77,Average,Yes,96,79,Placed,743880.0,Accenture,Noida
+140,2021,BioTech,Female,7.67,1,0,2,1,76,Good,Yes,57,81,Placed,690915.0,Zomato,Gurugram
+141,2021,BioTech,Male,7.1,0,0,1,2,59,Good,Yes,59,62,Placed,652662.0,IBM,Noida
+142,2024,CSE,Female,8.21,0,2,2,2,72,Average,Yes,73,71,Placed,835887.0,Infosys,Pune
+143,2024,ECE,Male,7.01,0,0,2,1,68,Average,Yes,96,59,Placed,662269.0,Hexaware,Bangalore
+144,2022,ECE,Female,8.1,1,2,1,2,89,Excellent,Yes,55,66,Placed,860163.0,Hexaware,Mumbai
+145,2021,CSE,Male,8.95,0,3,4,1,54,Excellent,No,92,92,Placed,1036323.0,Flipkart,Mumbai
+146,2023,CSE,Female,8.55,1,0,3,0,62,Average,No,63,72,Placed,762348.0,Amazon,Gurugram
+147,2024,ME,Male,6.62,2,0,2,1,81,Average,No,59,80,Not Placed,,,
+148,2023,ME,Female,7.49,0,1,0,3,42,Good,No,96,85,Placed,748282.0,Cognizant,Chennai
+149,2024,CSE,Female,6.89,0,3,1,1,76,Good,Yes,88,91,Placed,849320.0,L&T Infotech,Chennai
+150,2022,CSE,Female,8.2,1,2,2,0,95,Average,Yes,91,60,Placed,649014.0,Infosys,Bangalore
+151,2021,IT,Male,8.12,0,1,1,2,68,Excellent,Yes,87,95,Placed,821247.0,Mindtree,Bangalore
+152,2024,CSE,Male,6.49,0,2,4,1,84,Good,No,79,69,Placed,846096.0,Infosys,Gurugram
+153,2021,CSE,Male,6.99,0,0,1,2,47,Good,No,96,96,Placed,668458.0,Paytm,Pune
+154,2023,ECE,Male,7.3,0,3,2,3,61,Good,No,83,80,Placed,838285.0,Infosys,Hyderabad
+155,2022,BioTech,Male,6.96,0,3,1,3,92,Excellent,No,79,66,Placed,837529.0,Accenture,Hyderabad
+156,2021,CSE,Female,6.95,0,0,2,1,68,Good,Yes,63,95,Placed,683536.0,Wipro,Chennai
+157,2022,CE,Male,7.51,1,0,1,2,41,Poor,Yes,57,68,Not Placed,,,
+158,2021,EE,Male,7.68,0,0,2,2,80,Average,Yes,69,55,Placed,703220.0,Hexaware,Hyderabad
+159,2023,CSE,Male,7.66,0,0,1,1,88,Good,Yes,58,71,Placed,765577.0,Tech Mahindra,Bangalore
+160,2023,EE,Male,6.97,3,2,3,0,98,Average,Yes,92,87,Placed,709819.0,Wipro,Noida
+161,2022,ECE,Female,8.23,1,1,0,1,89,Good,No,74,83,Placed,847686.0,Paytm,Delhi
+162,2023,CE,Male,8.52,1,0,3,0,84,Excellent,Yes,77,85,Placed,862079.0,Capgemini,Chennai
+163,2024,CE,Female,6.81,0,1,3,4,40,Good,Yes,91,62,Not Placed,,,
+164,2021,ME,Male,6.71,1,3,1,2,83,Excellent,Yes,62,84,Placed,900127.0,Mindtree,Chennai
+165,2023,CSE,Female,8.14,0,1,3,1,59,Average,Yes,91,67,Placed,690093.0,Capgemini,Noida
+166,2024,IT,Female,7.55,0,1,0,1,91,Excellent,Yes,87,70,Placed,878174.0,Cognizant,Mumbai
+167,2022,ECE,Male,7.4,0,0,4,4,60,Good,Yes,87,56,Placed,685950.0,Flipkart,Delhi
+168,2024,CSE,Female,8.32,0,3,2,1,76,Average,Yes,61,72,Placed,860369.0,Wipro,Bangalore
+169,2022,CSE,Male,6.46,1,2,1,2,47,Good,No,76,89,Placed,797875.0,Flipkart,Hyderabad
+170,2022,ME,Female,8.25,0,0,1,1,66,Average,Yes,59,73,Placed,822824.0,Wipro,Chennai
+171,2021,CE,Male,7.26,1,0,0,3,86,Good,Yes,69,67,Placed,708000.0,Paytm,Mumbai
+172,2021,CSE,Female,7.51,1,0,4,2,98,Good,No,75,58,Placed,819298.0,Cognizant,Delhi
+173,2024,ME,Female,7.13,0,0,0,0,74,Average,No,79,73,Placed,639342.0,Wipro,Chennai
+174,2021,CSE,Female,7.77,0,1,2,1,45,Good,No,71,79,Placed,728161.0,Mphasis,Mumbai
+175,2021,CE,Female,5.82,0,2,2,2,99,Good,Yes,61,92,Not Placed,,,
+176,2021,CSE,Male,8.85,0,1,4,3,84,Average,Yes,73,85,Placed,754019.0,Accenture,Gurugram
+177,2024,CE,Male,7.23,0,2,1,0,83,Poor,Yes,61,90,Not Placed,,,
+178,2023,ECE,Male,7.81,3,1,2,2,58,Good,Yes,94,58,Not Placed,,,
+179,2021,IT,Male,8.47,0,1,2,1,57,Good,No,78,93,Placed,874978.0,Ola,Mumbai
+180,2021,CSE,Female,7.09,0,1,2,3,95,Excellent,Yes,65,61,Placed,957444.0,Paytm,Bangalore
+181,2024,ECE,Male,7.83,2,0,0,2,40,Excellent,Yes,95,70,Placed,843649.0,Ola,Mumbai
+182,2023,CSE,Female,7.61,0,1,1,1,64,Good,Yes,55,59,Placed,694340.0,HCL,Pune
+183,2021,IT,Female,8.39,1,1,1,1,66,Good,Yes,86,77,Placed,816239.0,Capgemini,Hyderabad
+184,2022,IT,Female,6.31,0,0,2,0,46,Good,Yes,94,90,Placed,764118.0,HCL,Pune
+185,2024,CSE,Male,7.73,0,1,1,2,83,Good,No,56,86,Placed,781023.0,Capgemini,Mumbai
+186,2021,CE,Female,6.72,0,1,2,1,81,Average,No,69,78,Not Placed,,,
+187,2021,EE,Female,7.8,0,3,1,1,68,Average,No,75,79,Not Placed,,,
+188,2022,ME,Male,7.58,0,1,3,4,70,Good,Yes,78,82,Placed,818058.0,IBM,Delhi
+189,2022,ME,Female,6.63,1,2,4,1,83,Poor,Yes,71,73,Placed,737156.0,IBM,Mumbai
+190,2024,CSE,Female,7.3,0,1,2,2,82,Good,Yes,63,61,Placed,791535.0,Paytm,Gurugram
+191,2024,CSE,Male,7.72,2,2,1,1,75,Excellent,Yes,89,95,Not Placed,,,
+192,2022,IT,Male,7.17,0,1,1,0,58,Average,No,74,71,Placed,674596.0,Capgemini,Bangalore
+193,2024,IT,Male,8.39,0,2,0,1,45,Good,Yes,73,56,Placed,833785.0,Wipro,Noida
+194,2022,CE,Male,6.9,0,1,1,2,64,Excellent,No,72,70,Placed,892781.0,Capgemini,Bangalore
+195,2021,ECE,Male,5.47,2,1,2,2,70,Good,Yes,74,93,Placed,718820.0,TCS,Delhi
+196,2022,ECE,Male,7.24,0,1,2,3,48,Average,Yes,84,72,Placed,640384.0,Cognizant,Mumbai
+197,2022,EE,Male,6.77,0,1,4,1,59,Average,Yes,94,93,Not Placed,,,
+198,2023,IT,Male,6.66,2,0,1,1,49,Good,Yes,55,55,Not Placed,,,
+199,2022,IT,Female,6.93,0,0,2,3,76,Good,No,78,57,Placed,705741.0,Accenture,Gurugram
+200,2022,EE,Male,7.58,2,0,2,1,66,Average,Yes,78,75,Not Placed,,,
+201,2023,CE,Female,8.26,0,2,2,1,52,Average,No,73,84,Placed,707163.0,Ola,Noida
+202,2024,CSE,Male,8.02,1,0,1,0,80,Excellent,No,84,65,Placed,942212.0,Ola,Bangalore
+203,2023,CSE,Male,7.38,2,0,2,2,41,Good,Yes,80,76,Not Placed,,,
+204,2021,IT,Male,8.12,1,1,2,3,89,Excellent,No,96,79,Placed,913475.0,HCL,Hyderabad
+205,2023,ME,Male,6.83,0,1,2,0,60,Good,Yes,92,57,Not Placed,,,
+206,2021,CSE,Male,7.31,0,1,4,1,72,Excellent,No,83,84,Placed,839614.0,Cognizant,Bangalore
+207,2024,CSE,Female,6.99,2,0,1,2,63,Average,No,67,78,Not Placed,,,
+208,2023,CE,Male,5.8,0,3,0,3,92,Good,No,58,90,Placed,840953.0,Mphasis,Pune
+209,2023,CSE,Female,7.53,0,2,2,1,83,Poor,Yes,71,77,Placed,788770.0,Amazon,Pune
+210,2024,CSE,Female,7.91,1,2,2,3,81,Good,Yes,87,62,Placed,843323.0,Infosys,Mumbai
+211,2021,ME,Male,7.12,0,1,1,1,73,Good,Yes,59,58,Placed,777456.0,Mphasis,Bangalore
+212,2023,CE,Male,6.87,0,2,3,1,99,Average,Yes,82,93,Placed,819713.0,Mphasis,Chennai
+213,2021,CE,Female,6.44,0,0,4,0,48,Excellent,No,78,97,Not Placed,,,
+214,2023,CSE,Male,8.23,0,0,4,1,41,Excellent,No,71,85,Not Placed,,,
+215,2022,CE,Male,6.15,0,0,1,1,94,Poor,Yes,93,83,Not Placed,,,
+216,2023,CSE,Female,8.34,1,1,3,3,95,Good,Yes,94,90,Placed,824196.0,Tech Mahindra,Hyderabad
+217,2024,ECE,Male,6.8,0,1,2,1,69,Average,Yes,65,67,Placed,678174.0,Mphasis,Noida
+218,2024,EE,Female,6.97,1,1,2,1,61,Good,Yes,66,95,Placed,600911.0,Cognizant,Chennai
+219,2021,CE,Female,6.03,2,0,2,0,85,Excellent,Yes,67,63,Not Placed,,,
+220,2023,IT,Male,7.45,1,1,3,2,50,Average,Yes,62,75,Placed,737489.0,Accenture,Pune
+221,2021,CE,Male,7.98,0,1,2,3,94,Excellent,No,55,57,Placed,721386.0,Amazon,Bangalore
+222,2021,ME,Male,7.61,1,1,1,1,82,Average,Yes,63,79,Placed,715415.0,Accenture,Delhi
+223,2022,CSE,Male,8.48,0,1,2,1,56,Good,Yes,82,79,Placed,861809.0,Amazon,Chennai
+224,2022,ECE,Male,7.87,0,0,2,0,75,Good,No,56,66,Placed,735861.0,Capgemini,Pune
+225,2024,CSE,Female,7.03,1,2,1,1,52,Average,Yes,68,83,Placed,779188.0,HCL,Noida
+226,2021,CSE,Male,7.57,0,1,3,0,46,Average,Yes,67,65,Placed,729668.0,Infosys,Gurugram
+227,2024,BioTech,Male,6.58,2,0,2,2,55,Excellent,No,56,65,Not Placed,,,
+228,2023,ECE,Female,8.43,0,0,2,2,72,Good,No,58,80,Placed,752525.0,Tech Mahindra,Chennai
+229,2021,IT,Female,6.96,1,1,0,2,84,Average,Yes,66,68,Placed,773995.0,Flipkart,Delhi
+230,2021,CE,Female,7.91,0,2,2,1,40,Good,Yes,64,70,Placed,843949.0,L&T Infotech,Chennai
+231,2023,EE,Male,8.13,2,1,1,1,50,Poor,No,57,64,Not Placed,,,
+232,2023,ME,Female,8.66,0,0,0,2,45,Average,No,58,85,Placed,606338.0,Tech Mahindra,Bangalore
+233,2024,ME,Male,6.87,0,2,2,2,59,Good,Yes,60,85,Placed,742593.0,IBM,Noida
+234,2024,ECE,Male,8.0,0,1,2,0,74,Poor,Yes,77,90,Placed,687440.0,Mindtree,Mumbai
+235,2023,CSE,Male,9.4,0,1,2,3,83,Excellent,Yes,59,64,Placed,884303.0,Wipro,Mumbai
+236,2024,EE,Female,7.07,0,1,0,1,76,Good,Yes,57,80,Not Placed,,,
+237,2023,CSE,Male,6.73,0,0,2,1,80,Excellent,Yes,64,74,Placed,845734.0,Mphasis,Noida
+238,2021,CSE,Male,6.48,0,1,1,0,65,Good,Yes,97,63,Placed,892583.0,Ola,Delhi
+239,2021,CE,Male,7.77,0,1,4,4,97,Excellent,Yes,73,69,Placed,892621.0,TCS,Hyderabad
+240,2022,CSE,Male,6.48,0,3,2,1,51,Good,No,68,63,Placed,818406.0,Capgemini,Pune
+241,2021,BioTech,Female,6.9,1,1,2,3,69,Good,Yes,75,61,Placed,686186.0,Capgemini,Bangalore
+242,2023,BioTech,Female,7.55,1,1,1,1,67,Excellent,No,97,80,Placed,906140.0,HCL,Noida
+243,2024,IT,Female,7.93,1,1,0,1,66,Good,No,82,78,Not Placed,,,
+244,2022,ECE,Male,7.8,1,2,4,2,81,Poor,Yes,75,66,Placed,811833.0,Mphasis,Delhi
+245,2024,CSE,Male,7.96,0,2,1,0,58,Good,No,90,74,Not Placed,,,
+246,2023,IT,Male,8.7,0,1,2,1,44,Excellent,No,78,68,Not Placed,,,
+247,2021,ECE,Male,6.83,0,1,2,1,97,Good,Yes,92,76,Placed,835516.0,Amazon,Hyderabad
+248,2022,BioTech,Male,6.66,1,1,0,3,44,Good,Yes,71,70,Placed,801661.0,Hexaware,Chennai
+249,2023,BioTech,Female,6.58,3,1,3,2,80,Good,Yes,76,83,Placed,689216.0,Capgemini,Bangalore
+250,2022,IT,Male,8.38,0,0,2,1,66,Excellent,No,73,86,Placed,868204.0,Amazon,Bangalore
+251,2022,CSE,Male,8.43,0,1,1,1,67,Poor,Yes,64,73,Placed,793182.0,Paytm,Chennai
+252,2021,ECE,Male,7.82,0,0,0,2,65,Good,Yes,65,89,Placed,701241.0,Mphasis,Noida
+253,2023,IT,Male,8.63,0,2,1,1,66,Average,No,92,97,Not Placed,,,
+254,2024,ECE,Male,6.68,0,1,3,1,91,Good,Yes,56,86,Placed,703947.0,Wipro,Delhi
+255,2022,CSE,Female,8.97,0,3,2,1,88,Good,Yes,87,74,Placed,952539.0,Mindtree,Hyderabad
+256,2022,ME,Female,8.42,2,1,1,2,81,Average,No,97,94,Placed,667554.0,L&T Infotech,Mumbai
+257,2024,IT,Female,8.31,0,1,0,1,60,Average,Yes,85,74,Placed,694486.0,Amazon,Delhi
+258,2023,CE,Male,8.63,2,1,2,2,40,Good,No,89,62,Placed,740948.0,Hexaware,Mumbai
+259,2022,ME,Male,5.87,1,0,2,2,93,Average,No,91,89,Not Placed,,,
+260,2022,CSE,Male,7.43,1,1,2,4,67,Average,Yes,90,96,Placed,688898.0,Ola,Pune
+261,2022,ME,Male,6.61,1,0,1,2,87,Excellent,Yes,77,67,Placed,872282.0,IBM,Noida
+262,2023,BioTech,Female,7.78,1,1,1,1,97,Average,No,90,95,Not Placed,,,
+263,2023,CSE,Male,7.06,1,1,2,2,97,Good,No,94,60,Placed,802563.0,Hexaware,Pune
+264,2024,ME,Male,7.81,1,2,4,3,54,Excellent,Yes,93,70,Placed,778970.0,L&T Infotech,Noida
+265,2023,IT,Male,8.76,0,0,1,1,94,Average,Yes,80,59,Placed,806845.0,Ola,Bangalore
+266,2023,EE,Male,7.99,3,0,2,1,56,Average,Yes,79,88,Placed,636735.0,L&T Infotech,Mumbai
+267,2021,CE,Female,7.43,1,1,2,0,65,Good,No,71,60,Placed,664337.0,IBM,Noida
+268,2024,CE,Male,6.41,1,2,2,3,59,Good,No,69,87,Placed,706531.0,Mindtree,Gurugram
+269,2022,ECE,Male,6.91,2,1,1,1,64,Excellent,Yes,91,69,Not Placed,,,
+270,2023,CSE,Male,8.67,0,1,3,0,52,Excellent,No,58,69,Placed,836106.0,Flipkart,Gurugram
+271,2022,EE,Male,8.05,0,1,2,2,72,Good,Yes,76,68,Placed,734056.0,IBM,Gurugram
+272,2022,EE,Female,7.47,0,0,2,3,64,Average,No,71,93,Placed,673024.0,Accenture,Hyderabad
+273,2021,IT,Female,7.51,0,3,1,1,47,Poor,Yes,76,59,Placed,726117.0,L&T Infotech,Delhi
+274,2023,IT,Female,6.38,1,1,1,2,44,Average,Yes,71,80,Placed,616273.0,Wipro,Chennai
+275,2024,ME,Female,6.34,0,0,0,3,45,Average,Yes,68,71,Not Placed,,,
+276,2023,ME,Male,8.73,0,1,2,1,62,Good,Yes,68,97,Placed,746639.0,L&T Infotech,Chennai
+277,2022,EE,Female,6.6,0,0,1,2,91,Good,No,71,70,Placed,627148.0,IBM,Pune
+278,2024,CE,Male,7.35,0,3,2,2,69,Poor,Yes,62,89,Placed,720293.0,TCS,Bangalore
+279,2023,CE,Male,8.01,1,0,1,3,53,Excellent,Yes,88,92,Not Placed,,,
+280,2022,EE,Female,6.62,1,1,2,2,93,Average,Yes,80,77,Placed,635450.0,Tech Mahindra,Gurugram
+281,2022,IT,Male,7.93,0,0,2,3,62,Good,Yes,84,67,Placed,813151.0,Wipro,Gurugram
+282,2021,ECE,Female,8.16,0,1,1,1,50,Good,No,76,87,Placed,725411.0,Amazon,Chennai
+283,2021,ECE,Male,7.51,0,2,1,1,70,Good,No,70,83,Not Placed,,,
+284,2021,CSE,Female,9.81,0,1,1,0,45,Good,Yes,84,88,Placed,889761.0,Hexaware,Gurugram
+285,2022,ME,Female,5.87,0,1,2,1,50,Poor,Yes,70,88,Placed,650940.0,Hexaware,Chennai
+286,2023,CSE,Female,8.54,3,2,2,3,52,Good,Yes,92,81,Placed,893046.0,Cognizant,Bangalore
+287,2021,ECE,Female,7.38,0,0,1,1,51,Good,No,78,69,Placed,667530.0,HCL,Noida
+288,2023,ME,Female,7.82,0,1,2,0,93,Excellent,No,90,63,Not Placed,,,
+289,2021,CSE,Male,8.11,0,0,1,0,41,Good,No,89,80,Placed,660798.0,Tech Mahindra,Pune
+290,2024,ME,Male,6.61,1,3,1,1,92,Good,No,60,57,Not Placed,,,
+291,2024,CSE,Male,7.96,1,1,0,1,74,Good,No,58,90,Placed,861526.0,Paytm,Gurugram
+292,2021,CSE,Female,6.5,1,1,3,1,94,Excellent,No,72,59,Placed,873713.0,Infosys,Chennai
+293,2022,IT,Male,8.22,0,1,1,3,75,Average,Yes,60,74,Placed,809655.0,HCL,Gurugram
+294,2021,ECE,Female,7.71,2,0,1,1,56,Good,Yes,80,74,Not Placed,,,
+295,2021,CSE,Male,8.25,0,0,1,2,67,Good,Yes,91,59,Placed,877243.0,Cognizant,Gurugram
+296,2022,ME,Male,8.05,0,0,1,2,67,Good,Yes,81,64,Placed,623778.0,Paytm,Delhi
+297,2024,EE,Female,7.76,0,1,2,2,61,Average,Yes,95,70,Placed,693760.0,Flipkart,Noida
+298,2023,CSE,Male,7.9,0,0,0,1,77,Good,Yes,65,79,Placed,755406.0,Ola,Gurugram
+299,2021,CE,Male,6.5,2,0,1,3,46,Average,Yes,92,79,Not Placed,,,
+300,2022,CSE,Male,7.3,2,2,2,2,54,Good,Yes,70,84,Placed,793451.0,Accenture,Gurugram
+301,2021,CSE,Female,8.63,0,3,1,1,71,Good,Yes,73,68,Placed,914271.0,Flipkart,Mumbai
+302,2022,ME,Female,8.35,2,1,2,0,50,Excellent,Yes,97,76,Placed,768351.0,Tech Mahindra,Mumbai
+303,2023,ME,Male,7.01,1,1,2,0,63,Good,No,69,97,Placed,725361.0,Paytm,Gurugram
+304,2023,CE,Male,7.24,2,0,1,2,42,Average,No,80,82,Placed,561354.0,Tech Mahindra,Mumbai
+305,2024,EE,Male,6.87,0,1,2,2,69,Average,No,95,84,Placed,673780.0,Flipkart,Hyderabad
+306,2022,BioTech,Female,8.14,0,2,1,1,45,Excellent,Yes,85,73,Placed,790833.0,L&T Infotech,Chennai
+307,2022,ME,Female,7.73,0,0,2,1,97,Average,Yes,73,92,Placed,634049.0,Capgemini,Delhi
+308,2024,ECE,Male,8.86,1,0,2,3,41,Good,Yes,78,96,Placed,726230.0,Mindtree,Hyderabad
+309,2024,EE,Male,6.89,0,2,1,3,53,Average,No,63,74,Placed,759656.0,Cognizant,Pune
+310,2022,CSE,Male,7.54,0,1,2,2,80,Good,Yes,77,89,Placed,932136.0,Tech Mahindra,Noida
+311,2024,ECE,Female,7.66,0,0,3,2,57,Good,Yes,58,76,Placed,621526.0,Cognizant,Chennai
+312,2023,CSE,Female,8.25,0,1,4,3,90,Average,No,64,69,Placed,754374.0,Wipro,Noida
+313,2021,CSE,Male,7.65,1,1,2,2,83,Average,Yes,63,65,Placed,774785.0,Amazon,Delhi
+314,2023,BioTech,Male,6.5,2,1,2,1,70,Excellent,Yes,73,88,Not Placed,,,
+315,2024,IT,Male,8.42,1,2,1,0,52,Good,Yes,69,78,Placed,904802.0,Ola,Gurugram
+316,2022,CE,Female,7.78,2,2,1,2,65,Good,Yes,88,60,Placed,745327.0,Amazon,Bangalore
+317,2022,ECE,Male,6.86,0,1,2,1,83,Excellent,Yes,96,71,Placed,779465.0,IBM,Noida
+318,2023,CSE,Female,8.75,0,3,1,0,51,Excellent,Yes,73,82,Placed,1052020.0,Hexaware,Bangalore
+319,2022,CSE,Female,8.62,0,1,3,3,57,Average,No,75,85,Placed,706701.0,Hexaware,Gurugram
+320,2024,CSE,Male,7.89,0,2,1,2,48,Excellent,No,88,90,Placed,848992.0,TCS,Delhi
+321,2023,ME,Male,7.26,0,1,1,3,88,Poor,Yes,71,63,Placed,761753.0,L&T Infotech,Noida
+322,2022,CE,Male,7.64,1,2,1,1,60,Average,No,72,64,Placed,777710.0,Amazon,Chennai
+323,2021,CE,Female,6.51,0,2,3,3,87,Excellent,Yes,71,75,Placed,783561.0,Zomato,Chennai
+324,2021,CSE,Female,7.82,1,0,2,1,88,Average,Yes,56,88,Placed,727443.0,Capgemini,Noida
+325,2024,BioTech,Female,5.48,0,3,2,2,92,Average,Yes,55,85,Placed,712645.0,Zomato,Bangalore
+326,2022,EE,Male,8.11,0,2,1,1,95,Average,Yes,97,83,Placed,886466.0,Hexaware,Delhi
+327,2024,ME,Male,5.95,0,2,3,0,79,Good,Yes,64,97,Placed,767260.0,Hexaware,Pune
+328,2023,ME,Female,8.4,0,0,0,1,82,Good,Yes,91,97,Not Placed,,,
+329,2021,ECE,Female,7.27,0,2,3,2,63,Good,No,59,65,Placed,789150.0,Flipkart,Pune
+330,2023,CSE,Male,7.65,0,2,2,1,73,Excellent,Yes,66,87,Placed,874501.0,Ola,Bangalore
+331,2022,ECE,Female,7.06,0,0,1,2,47,Good,Yes,90,55,Not Placed,,,
+332,2024,EE,Female,7.3,0,3,2,1,83,Average,No,85,75,Placed,828905.0,Hexaware,Bangalore
+333,2024,CSE,Male,8.79,0,0,2,0,92,Excellent,Yes,92,77,Placed,939133.0,Wipro,Noida
+334,2024,CSE,Female,6.06,1,0,0,2,72,Average,Yes,63,63,Placed,663425.0,Cognizant,Gurugram
+335,2023,CSE,Female,8.69,1,1,3,4,62,Average,No,80,55,Placed,754562.0,Accenture,Bangalore
+336,2021,CSE,Female,8.04,0,1,2,1,52,Poor,Yes,69,75,Placed,761303.0,Capgemini,Noida
+337,2023,IT,Male,6.96,1,1,1,2,93,Good,Yes,70,76,Placed,810970.0,Mindtree,Chennai
+338,2023,CE,Male,6.34,1,0,1,4,92,Average,Yes,67,58,Placed,775550.0,Flipkart,Delhi
+339,2022,ECE,Female,8.67,1,3,2,2,88,Average,Yes,79,55,Placed,824787.0,Mindtree,Noida
+340,2022,CSE,Male,7.14,0,0,2,2,53,Average,Yes,84,64,Not Placed,,,
+341,2022,ECE,Male,6.69,0,0,2,1,53,Average,Yes,61,69,Not Placed,,,
+342,2021,ECE,Male,8.3,1,0,2,1,55,Good,No,58,90,Placed,732486.0,Capgemini,Noida
+343,2021,CSE,Male,8.04,0,1,2,1,88,Excellent,No,97,83,Placed,861024.0,Capgemini,Hyderabad
+344,2022,ECE,Female,6.84,2,3,4,1,77,Good,Yes,94,59,Placed,819182.0,Zomato,Bangalore
+345,2022,ECE,Female,7.65,1,1,2,3,97,Average,No,92,83,Placed,697376.0,Ola,Bangalore
+346,2021,ME,Male,6.38,0,2,3,1,99,Average,No,84,81,Placed,625315.0,Mphasis,Chennai
+347,2024,CE,Male,8.08,0,0,1,0,78,Excellent,Yes,64,79,Not Placed,,,
+348,2021,CSE,Male,8.54,0,1,1,3,65,Poor,Yes,84,70,Placed,745564.0,Wipro,Bangalore
+349,2021,ECE,Female,7.87,0,1,1,2,65,Excellent,Yes,93,70,Placed,793063.0,TCS,Chennai
+350,2021,CE,Female,7.49,0,1,2,3,40,Average,No,61,90,Placed,675369.0,IBM,Bangalore
+351,2022,ME,Male,8.61,0,0,3,2,71,Excellent,Yes,90,79,Placed,846511.0,Cognizant,Chennai
+352,2024,IT,Female,7.8,0,1,0,0,96,Average,No,89,95,Placed,904608.0,Cognizant,Gurugram
+353,2021,CE,Female,6.25,0,1,0,2,54,Good,Yes,78,55,Placed,647381.0,HCL,Chennai
+354,2022,CSE,Female,8.11,3,2,3,2,91,Good,Yes,93,59,Placed,928649.0,Flipkart,Mumbai
+355,2023,CSE,Female,9.26,0,1,1,1,60,Good,Yes,90,95,Placed,842038.0,Mphasis,Pune
+356,2023,CE,Male,6.39,2,0,2,1,57,Average,Yes,74,74,Not Placed,,,
+357,2021,CSE,Female,7.55,2,1,2,1,69,Good,No,86,59,Placed,844351.0,HCL,Pune
+358,2023,ME,Male,7.53,0,0,3,2,99,Good,No,93,90,Placed,682880.0,L&T Infotech,Hyderabad
+359,2024,BioTech,Female,7.16,1,2,1,1,97,Poor,Yes,80,83,Not Placed,,,
+360,2023,ME,Female,6.41,0,1,1,2,52,Poor,No,80,88,Not Placed,,,
+361,2023,ECE,Female,8.29,1,0,2,1,63,Good,No,90,72,Placed,656078.0,TCS,Mumbai
+362,2024,CE,Female,9.06,0,3,4,1,69,Average,Yes,97,56,Placed,842997.0,Hexaware,Noida
+363,2021,ECE,Male,7.64,0,1,2,0,41,Good,No,89,70,Placed,787821.0,IBM,Hyderabad
+364,2021,ME,Male,6.48,0,0,1,0,58,Average,Yes,97,83,Placed,580232.0,Tech Mahindra,Hyderabad
+365,2024,BioTech,Female,5.96,0,1,2,1,86,Good,Yes,89,87,Not Placed,,,
+366,2024,ECE,Female,7.68,0,0,4,1,83,Average,Yes,66,70,Placed,670471.0,L&T Infotech,Hyderabad
+367,2024,BioTech,Male,8.08,0,2,3,1,86,Good,No,87,89,Placed,803405.0,Infosys,Delhi
+368,2023,IT,Male,8.13,0,2,4,4,64,Average,Yes,90,97,Placed,889611.0,Ola,Noida
+369,2024,CSE,Male,7.8,0,3,0,2,89,Poor,No,68,96,Placed,883027.0,Mphasis,Hyderabad
+370,2022,CSE,Female,7.39,0,1,1,2,53,Poor,No,87,71,Not Placed,,,
+371,2023,CSE,Female,7.04,0,1,2,3,45,Excellent,Yes,78,58,Placed,772361.0,Paytm,Delhi
+372,2021,CSE,Male,8.38,0,2,3,3,51,Average,Yes,69,58,Placed,824506.0,TCS,Noida
+373,2021,CSE,Male,8.44,0,0,1,3,59,Good,Yes,85,79,Placed,758377.0,Zomato,Hyderabad
+374,2021,CE,Female,5.96,1,1,1,0,62,Poor,Yes,71,87,Not Placed,,,
+375,2023,CSE,Female,8.91,0,1,3,2,69,Average,Yes,66,68,Placed,742779.0,Amazon,Delhi
+376,2022,ECE,Male,7.9,1,0,0,3,69,Good,Yes,76,78,Not Placed,,,
+377,2024,IT,Male,8.78,0,1,1,3,77,Good,Yes,77,65,Placed,914757.0,Flipkart,Pune
+378,2024,CSE,Male,6.86,2,2,2,2,97,Excellent,Yes,80,79,Placed,846051.0,Amazon,Pune
+379,2021,EE,Male,6.54,0,2,2,0,69,Excellent,Yes,68,82,Placed,816346.0,Paytm,Mumbai
+380,2021,CSE,Male,7.7,0,0,2,4,80,Good,Yes,66,61,Placed,843796.0,Ola,Gurugram
+381,2023,CSE,Female,8.15,0,0,1,1,69,Good,No,58,90,Placed,766014.0,Flipkart,Noida
+382,2022,CE,Female,8.64,0,0,2,1,96,Good,No,67,64,Placed,798134.0,Capgemini,Delhi
+383,2024,CE,Female,7.76,0,2,2,1,97,Average,Yes,72,90,Placed,719788.0,Tech Mahindra,Hyderabad
+384,2023,IT,Female,7.63,0,0,2,1,75,Excellent,Yes,97,85,Placed,824665.0,Capgemini,Gurugram
+385,2024,EE,Male,6.78,3,1,2,1,88,Good,Yes,82,73,Placed,797938.0,Tech Mahindra,Gurugram
+386,2021,EE,Male,8.36,0,0,1,1,73,Good,Yes,92,72,Not Placed,,,
+387,2024,CSE,Male,7.12,0,1,0,4,55,Average,Yes,95,60,Placed,733297.0,Hexaware,Delhi
+388,2022,CSE,Male,8.94,1,1,1,1,63,Poor,Yes,73,82,Placed,748990.0,TCS,Gurugram
+389,2022,EE,Female,7.3,0,2,1,2,53,Excellent,No,97,61,Placed,835089.0,Mindtree,Pune
+390,2021,EE,Female,8.61,1,0,2,3,65,Average,Yes,92,92,Placed,699218.0,Zomato,Chennai
+391,2022,BioTech,Male,7.74,0,1,3,2,47,Good,No,57,66,Placed,709317.0,Mphasis,Mumbai
+392,2022,ECE,Male,7.4,1,0,2,1,53,Average,Yes,73,95,Not Placed,,,
+393,2023,ECE,Female,7.14,0,1,3,2,70,Excellent,Yes,74,88,Placed,854069.0,Mindtree,Mumbai
+394,2024,EE,Male,7.26,1,2,1,0,41,Poor,Yes,79,79,Placed,646345.0,Capgemini,Bangalore
+395,2021,ECE,Male,7.8,1,0,2,0,87,Excellent,Yes,65,71,Placed,765919.0,Paytm,Chennai
+396,2021,IT,Female,7.85,0,2,1,2,43,Average,Yes,71,87,Not Placed,,,
+397,2021,IT,Female,7.38,0,1,1,3,40,Excellent,Yes,89,77,Placed,898912.0,Wipro,Chennai
+398,2021,ECE,Male,7.38,0,0,0,2,94,Good,Yes,68,63,Placed,765054.0,Amazon,Gurugram
+399,2021,EE,Male,7.56,3,1,2,0,59,Average,Yes,93,60,Not Placed,,,
+400,2022,EE,Female,6.01,0,0,4,1,98,Good,No,73,56,Placed,655382.0,Ola,Chennai
+401,2023,CSE,Male,8.12,0,1,1,0,53,Average,No,57,92,Placed,891105.0,Zomato,Gurugram
+402,2021,IT,Male,7.11,0,2,0,2,79,Average,Yes,88,63,Placed,756520.0,Flipkart,Bangalore
+403,2023,ME,Female,6.28,0,0,3,1,64,Excellent,Yes,95,57,Placed,777928.0,Wipro,Mumbai
+404,2023,IT,Male,6.62,0,1,1,3,99,Good,Yes,76,70,Placed,725019.0,Tech Mahindra,Noida
+405,2022,ECE,Female,6.24,3,2,3,0,64,Average,No,92,79,Placed,751956.0,Tech Mahindra,Mumbai
+406,2021,IT,Male,6.85,0,3,2,0,42,Average,Yes,81,78,Placed,778393.0,Mphasis,Gurugram
+407,2022,ECE,Female,7.0,1,1,4,1,44,Average,Yes,75,83,Placed,624654.0,Ola,Delhi
+408,2021,CSE,Male,9.17,0,3,2,1,77,Excellent,Yes,95,94,Placed,911261.0,Amazon,Delhi
+409,2022,IT,Male,7.43,0,1,2,2,93,Average,Yes,85,80,Placed,755851.0,Mphasis,Gurugram
+410,2023,CSE,Male,7.92,0,1,2,3,65,Excellent,Yes,81,92,Placed,840816.0,Capgemini,Mumbai
+411,2021,ECE,Male,7.78,0,2,2,0,79,Excellent,No,91,89,Placed,889866.0,Capgemini,Chennai
+412,2024,BioTech,Female,7.3,3,1,2,1,77,Average,No,56,77,Not Placed,,,
+413,2023,BioTech,Female,7.14,2,1,1,4,77,Average,Yes,63,58,Placed,632601.0,HCL,Chennai
+414,2024,ME,Male,6.24,0,1,2,2,43,Excellent,Yes,73,96,Placed,784951.0,Mindtree,Hyderabad
+415,2023,CE,Male,8.36,0,2,2,4,46,Average,Yes,96,68,Placed,830914.0,Ola,Pune
+416,2022,ECE,Female,8.77,0,2,3,1,69,Poor,Yes,90,93,Placed,758957.0,IBM,Chennai
+417,2021,CSE,Female,6.62,2,1,2,1,69,Average,No,64,61,Not Placed,,,
+418,2023,ECE,Male,6.78,2,1,2,1,95,Good,Yes,94,62,Placed,730184.0,Zomato,Mumbai
+419,2022,CE,Male,6.98,1,1,1,1,58,Good,Yes,93,96,Not Placed,,,
+420,2021,EE,Male,6.82,0,1,2,2,78,Average,Yes,61,73,Not Placed,,,
+421,2021,EE,Female,7.85,0,0,2,1,74,Average,No,58,56,Placed,614416.0,Paytm,Mumbai
+422,2023,EE,Male,6.99,0,2,3,2,79,Excellent,Yes,69,55,Placed,860084.0,HCL,Chennai
+423,2021,CSE,Female,9.32,0,1,3,1,72,Good,Yes,66,96,Placed,875122.0,L&T Infotech,Chennai
+424,2023,ECE,Male,8.33,0,1,0,3,72,Good,Yes,60,92,Placed,754615.0,Mphasis,Pune
+425,2021,CSE,Female,7.95,0,0,3,0,53,Good,Yes,63,67,Not Placed,,,
+426,2024,ME,Male,8.02,0,0,0,1,77,Good,No,89,96,Placed,663335.0,L&T Infotech,Bangalore
+427,2022,ECE,Male,8.27,2,3,1,2,49,Good,Yes,62,78,Placed,769167.0,Ola,Pune
+428,2024,IT,Male,7.41,1,1,2,0,96,Average,Yes,61,86,Not Placed,,,
+429,2023,ECE,Female,6.93,0,0,1,1,67,Average,Yes,58,84,Placed,576413.0,Capgemini,Bangalore
+430,2024,CSE,Male,7.85,0,1,2,1,53,Good,No,67,60,Placed,726745.0,Infosys,Mumbai
+431,2023,CSE,Male,8.4,0,1,0,3,75,Good,Yes,73,92,Placed,883131.0,Cognizant,Gurugram
+432,2021,EE,Male,7.6,1,0,1,2,77,Excellent,Yes,61,87,Placed,739098.0,HCL,Bangalore
+433,2021,ME,Male,5.94,1,1,2,2,55,Average,Yes,64,77,Not Placed,,,
+434,2023,CSE,Female,7.24,1,1,2,4,99,Excellent,No,79,64,Placed,832672.0,L&T Infotech,Gurugram
+435,2024,CSE,Female,7.75,1,1,3,4,60,Excellent,No,89,69,Placed,859556.0,Zomato,Gurugram
+436,2021,CE,Female,7.14,0,1,2,2,67,Average,No,79,77,Placed,742425.0,Mindtree,Pune
+437,2022,CSE,Male,9.18,0,1,2,2,72,Good,Yes,83,90,Placed,868399.0,Infosys,Mumbai
+438,2021,IT,Female,6.83,0,3,1,2,45,Good,Yes,66,55,Placed,816645.0,Zomato,Hyderabad
+439,2022,CE,Male,7.6,0,1,0,1,80,Excellent,No,94,62,Placed,820369.0,Wipro,Noida
+440,2024,CSE,Male,8.84,1,0,1,4,54,Good,Yes,66,57,Placed,874779.0,Zomato,Hyderabad
+441,2022,CSE,Male,9.39,0,0,2,2,83,Good,Yes,60,68,Placed,752539.0,Infosys,Pune
+442,2022,BioTech,Male,6.88,0,1,2,1,42,Good,No,64,71,Not Placed,,,
+443,2022,ECE,Female,7.84,0,2,2,0,82,Average,Yes,56,88,Placed,666178.0,Cognizant,Mumbai
+444,2022,ECE,Female,7.9,3,0,2,0,86,Average,Yes,79,60,Not Placed,,,
+445,2021,EE,Female,7.64,0,1,2,1,74,Good,No,61,59,Placed,728388.0,Wipro,Chennai
+446,2022,BioTech,Male,7.12,1,0,0,1,53,Good,No,94,95,Placed,681549.0,HCL,Noida
+447,2021,BioTech,Male,7.55,0,1,1,1,41,Good,Yes,77,94,Placed,824835.0,Tech Mahindra,Noida
+448,2022,EE,Male,5.73,0,2,3,1,68,Good,Yes,65,83,Placed,801753.0,Flipkart,Gurugram
+449,2023,ECE,Male,7.98,0,1,2,2,43,Average,Yes,90,89,Placed,664384.0,L&T Infotech,Noida
+450,2024,CSE,Male,7.89,1,1,3,1,65,Good,Yes,77,72,Placed,849446.0,L&T Infotech,Bangalore
+451,2022,EE,Male,7.34,0,0,1,1,90,Poor,Yes,97,94,Placed,555665.0,HCL,Chennai
+452,2023,ME,Male,8.84,2,1,4,1,51,Excellent,Yes,61,84,Placed,817272.0,IBM,Mumbai
+453,2022,ECE,Male,7.03,0,0,1,3,41,Excellent,No,81,69,Placed,718677.0,Wipro,Pune
+454,2022,IT,Female,7.52,0,2,0,1,56,Good,No,67,69,Not Placed,,,
+455,2022,CSE,Female,9.19,2,0,4,1,74,Poor,No,71,70,Placed,707236.0,Tech Mahindra,Pune
+456,2023,ECE,Female,6.92,0,2,1,2,49,Average,Yes,86,87,Placed,589980.0,Ola,Hyderabad
+457,2024,CSE,Female,7.41,0,1,2,1,87,Good,Yes,80,64,Placed,841187.0,Accenture,Bangalore
+458,2023,ECE,Male,7.4,1,1,1,1,61,Good,No,76,73,Placed,690232.0,Amazon,Gurugram
+459,2024,CSE,Female,8.39,0,1,2,1,80,Good,Yes,67,91,Placed,886248.0,Zomato,Mumbai
+460,2022,CSE,Female,7.95,1,2,3,2,82,Average,Yes,66,57,Placed,920955.0,Infosys,Chennai
+461,2021,CSE,Male,6.9,0,0,1,2,60,Good,Yes,61,90,Placed,768494.0,L&T Infotech,Mumbai
+462,2022,CE,Male,6.77,0,0,2,2,54,Good,No,55,58,Placed,652974.0,Flipkart,Hyderabad
+463,2024,EE,Female,7.07,0,1,1,1,74,Average,No,87,65,Placed,694802.0,Tech Mahindra,Mumbai
+464,2023,ME,Male,7.14,1,0,2,2,87,Good,Yes,68,95,Placed,804815.0,IBM,Noida
+465,2022,BioTech,Male,7.54,0,0,1,1,60,Average,No,97,87,Not Placed,,,
+466,2023,ECE,Male,7.79,1,3,1,1,60,Good,Yes,95,82,Placed,849915.0,HCL,Chennai
+467,2023,CSE,Male,6.56,2,3,1,1,60,Excellent,Yes,71,86,Placed,999649.0,Cognizant,Mumbai
+468,2023,IT,Male,8.54,0,1,1,2,99,Good,No,58,70,Placed,839369.0,Cognizant,Hyderabad
+469,2022,CSE,Male,7.98,0,2,3,0,83,Excellent,No,93,63,Placed,809776.0,Infosys,Pune
+470,2023,BioTech,Male,8.31,0,1,1,2,71,Good,Yes,55,65,Placed,795404.0,L&T Infotech,Mumbai
+471,2023,CSE,Male,8.11,0,0,1,3,94,Average,Yes,95,60,Placed,614423.0,Flipkart,Hyderabad
+472,2022,BioTech,Female,8.08,0,1,2,1,44,Good,No,78,81,Placed,577507.0,Flipkart,Mumbai
+473,2023,CSE,Male,8.13,1,1,1,1,78,Good,No,88,66,Placed,794488.0,Hexaware,Mumbai
+474,2022,IT,Male,8.74,3,3,2,1,48,Average,No,88,76,Placed,873629.0,Paytm,Gurugram
+475,2024,ME,Male,7.62,2,0,4,1,92,Average,Yes,78,94,Placed,663674.0,Flipkart,Hyderabad
+476,2024,BioTech,Female,7.12,2,1,2,0,57,Good,No,69,91,Not Placed,,,
+477,2024,CSE,Male,9.39,2,0,3,4,60,Poor,No,71,75,Placed,794826.0,Infosys,Noida
+478,2023,ME,Male,7.91,0,0,2,1,47,Poor,Yes,67,87,Placed,685018.0,Mindtree,Mumbai
+479,2021,BioTech,Female,7.66,1,0,1,2,83,Good,No,61,71,Placed,773464.0,TCS,Hyderabad
+480,2021,ME,Female,6.18,2,3,2,0,91,Average,Yes,63,83,Not Placed,,,
+481,2023,CE,Male,6.17,0,2,2,3,73,Excellent,Yes,89,94,Placed,892093.0,Tech Mahindra,Bangalore
+482,2021,CE,Female,7.43,3,2,2,3,49,Average,Yes,77,64,Not Placed,,,
+483,2022,ECE,Male,7.6,0,1,3,2,90,Good,Yes,93,72,Placed,728900.0,Capgemini,Bangalore
+484,2021,CE,Male,6.71,1,1,2,3,80,Good,Yes,77,67,Placed,769214.0,Accenture,Gurugram
+485,2023,ME,Male,7.31,1,0,3,1,96,Good,No,80,81,Not Placed,,,
+486,2023,IT,Male,8.91,3,0,3,1,63,Average,Yes,55,64,Placed,717075.0,Paytm,Gurugram
+487,2022,CSE,Female,8.29,0,1,2,2,79,Excellent,Yes,68,86,Placed,841002.0,Capgemini,Pune
+488,2024,CSE,Male,7.0,1,2,2,2,63,Good,No,86,95,Placed,846511.0,Amazon,Gurugram
+489,2023,BioTech,Male,7.11,0,1,1,3,95,Excellent,Yes,64,57,Placed,813953.0,Wipro,Gurugram
+490,2022,IT,Female,7.24,0,0,4,1,71,Average,Yes,55,76,Placed,686611.0,Mphasis,Noida
+491,2021,ECE,Female,7.23,1,0,2,1,95,Average,Yes,59,81,Placed,687187.0,Mindtree,Delhi
+492,2021,CE,Male,6.87,0,0,0,1,72,Good,Yes,57,57,Placed,761346.0,HCL,Pune
+493,2022,CSE,Female,7.47,1,1,1,3,77,Poor,Yes,81,87,Placed,643660.0,Mindtree,Noida
+494,2022,CSE,Male,6.92,0,3,2,3,83,Good,No,76,56,Placed,930361.0,Zomato,Mumbai
+495,2023,ECE,Female,7.41,0,1,0,2,96,Average,Yes,72,65,Placed,757628.0,Hexaware,Bangalore
+496,2021,ECE,Female,7.11,1,2,0,2,95,Good,No,70,64,Not Placed,,,
+497,2022,ME,Female,5.0,0,1,2,2,90,Excellent,Yes,56,93,Placed,772510.0,Flipkart,Hyderabad
+498,2021,CSE,Male,9.24,0,1,1,2,98,Good,Yes,67,87,Placed,931514.0,Mindtree,Mumbai
+499,2022,BioTech,Male,8.07,3,0,2,1,88,Excellent,No,70,61,Placed,752743.0,Mindtree,Hyderabad
+500,2021,BioTech,Male,6.9,0,2,1,2,73,Good,No,62,69,Placed,837632.0,Hexaware,Bangalore
+501,2024,CE,Male,7.22,1,2,1,1,50,Good,Yes,97,80,Placed,745135.0,Ola,Gurugram
+502,2023,ME,Male,6.26,0,0,2,2,70,Excellent,Yes,62,65,Placed,710991.0,Amazon,Bangalore
+503,2021,ECE,Female,8.69,0,1,2,0,57,Excellent,Yes,64,92,Not Placed,,,
+504,2024,EE,Male,8.83,0,1,1,2,62,Good,Yes,87,81,Placed,808206.0,IBM,Delhi
+505,2021,CE,Male,7.33,0,1,1,3,99,Average,Yes,85,93,Not Placed,,,
+506,2021,CSE,Female,8.52,0,3,2,2,61,Good,No,66,61,Placed,952942.0,Zomato,Gurugram
+507,2024,IT,Male,7.92,0,1,0,2,82,Average,Yes,63,55,Not Placed,,,
+508,2021,IT,Female,6.86,0,1,1,2,57,Good,No,91,64,Placed,710030.0,Infosys,Chennai
+509,2021,BioTech,Male,6.87,0,0,0,2,79,Good,Yes,63,75,Placed,733794.0,Capgemini,Pune
+510,2023,EE,Male,7.59,0,0,3,1,86,Excellent,Yes,72,69,Placed,756963.0,L&T Infotech,Gurugram
+511,2024,ME,Male,6.84,0,0,3,2,80,Excellent,Yes,84,84,Placed,802402.0,Zomato,Hyderabad
+512,2024,ECE,Male,7.35,0,0,3,1,86,Good,Yes,86,84,Placed,666138.0,TCS,Chennai
+513,2022,IT,Female,7.74,2,1,2,2,78,Poor,No,94,62,Not Placed,,,
+514,2021,IT,Male,7.74,1,1,2,2,59,Excellent,Yes,77,78,Placed,728720.0,Accenture,Mumbai
+515,2023,CSE,Male,7.84,1,0,2,2,52,Average,Yes,65,73,Not Placed,,,
+516,2021,CSE,Male,7.06,0,2,2,2,84,Good,No,74,57,Placed,862499.0,Ola,Bangalore
+517,2021,ECE,Male,7.0,2,0,0,2,40,Poor,Yes,73,69,Not Placed,,,
+518,2022,EE,Female,6.6,1,1,2,3,91,Average,Yes,90,90,Placed,689404.0,Ola,Noida
+519,2021,BioTech,Male,7.98,1,0,3,1,43,Excellent,Yes,80,60,Not Placed,,,
+520,2023,CSE,Female,6.33,0,1,2,4,63,Average,No,64,96,Not Placed,,,
+521,2023,ME,Female,8.12,3,0,1,2,75,Good,No,78,72,Placed,697454.0,Wipro,Chennai
+522,2022,ECE,Male,8.47,1,1,1,1,75,Average,No,67,92,Placed,658266.0,HCL,Gurugram
+523,2021,BioTech,Female,6.96,2,1,2,3,84,Excellent,Yes,88,73,Placed,729838.0,HCL,Pune
+524,2023,IT,Male,5.98,0,3,2,2,41,Excellent,No,83,84,Placed,903267.0,Zomato,Mumbai
+525,2021,IT,Male,7.55,0,0,3,4,67,Average,Yes,90,67,Placed,761740.0,Paytm,Mumbai
+526,2021,ECE,Male,7.46,0,0,1,2,65,Poor,Yes,61,93,Not Placed,,,
+527,2021,ECE,Female,6.79,0,0,3,0,62,Good,No,84,66,Placed,705342.0,Amazon,Gurugram
+528,2022,CSE,Female,7.44,2,1,2,1,54,Average,Yes,71,88,Placed,697205.0,Zomato,Chennai
+529,2021,CSE,Male,8.87,0,0,3,2,75,Good,Yes,67,66,Placed,814435.0,Flipkart,Pune
+530,2023,IT,Female,8.27,0,2,2,3,66,Poor,Yes,78,78,Placed,838787.0,Hexaware,Chennai
+531,2021,EE,Male,6.85,0,1,2,2,45,Average,Yes,85,58,Placed,681252.0,Paytm,Pune
+532,2023,BioTech,Male,5.92,0,1,2,1,74,Good,No,81,90,Placed,693975.0,Wipro,Mumbai
+533,2021,BioTech,Male,6.94,0,1,2,2,78,Average,Yes,75,68,Placed,686057.0,Amazon,Delhi
+534,2023,ME,Female,7.03,1,0,4,2,77,Excellent,Yes,55,71,Placed,848992.0,Paytm,Mumbai
+535,2023,EE,Female,7.85,0,0,0,0,74,Poor,Yes,69,57,Not Placed,,,
+536,2021,BioTech,Male,6.77,0,1,0,1,75,Average,No,57,92,Not Placed,,,
+537,2021,IT,Male,8.16,0,1,4,1,49,Excellent,No,60,77,Placed,904617.0,TCS,Mumbai
+538,2023,CSE,Male,9.15,0,0,2,1,69,Good,Yes,68,67,Placed,811135.0,L&T Infotech,Gurugram
+539,2024,ECE,Male,8.07,0,0,2,1,92,Good,No,92,63,Placed,681561.0,Cognizant,Gurugram
+540,2022,CSE,Male,7.77,1,3,2,0,80,Average,No,87,75,Placed,847404.0,Ola,Gurugram
+541,2024,BioTech,Female,7.05,1,0,0,3,77,Good,Yes,92,95,Not Placed,,,
+542,2024,ME,Male,6.91,1,2,3,1,68,Good,Yes,62,62,Placed,858359.0,Mphasis,Delhi
+543,2021,CSE,Male,8.63,1,2,2,1,91,Average,Yes,80,71,Placed,857665.0,Ola,Noida
+544,2022,CE,Male,6.7,0,0,1,1,98,Excellent,No,69,70,Not Placed,,,
+545,2024,ME,Female,7.24,3,0,1,1,82,Good,Yes,68,70,Not Placed,,,
+546,2021,ECE,Female,7.54,1,0,3,2,78,Average,Yes,74,82,Placed,709304.0,Flipkart,Delhi
+547,2024,CSE,Male,7.45,2,1,0,1,89,Good,Yes,73,70,Placed,759150.0,IBM,Chennai
+548,2024,CE,Female,6.1,0,1,3,2,43,Good,No,87,68,Placed,742387.0,Hexaware,Chennai
+549,2021,ME,Male,7.46,2,2,1,2,44,Average,Yes,90,92,Not Placed,,,
+550,2021,EE,Male,7.46,1,3,2,1,43,Good,No,78,74,Not Placed,,,
+551,2021,ME,Male,7.6,1,1,4,2,75,Average,No,64,95,Not Placed,,,
+552,2022,IT,Male,7.43,0,0,2,2,98,Good,Yes,88,88,Placed,744516.0,Amazon,Bangalore
+553,2024,ME,Male,8.18,1,0,2,1,84,Good,Yes,90,83,Placed,804923.0,Mindtree,Gurugram
+554,2021,ME,Female,6.5,3,2,2,2,55,Good,Yes,90,57,Placed,731256.0,Hexaware,Noida
+555,2023,IT,Female,9.0,1,0,1,3,64,Excellent,No,70,64,Placed,826256.0,Cognizant,Gurugram
+556,2024,ECE,Female,6.28,0,0,1,2,53,Average,Yes,69,74,Placed,554570.0,Infosys,Pune
+557,2023,CSE,Male,8.1,2,1,4,1,50,Good,Yes,72,56,Placed,871213.0,Paytm,Delhi
+558,2022,CSE,Male,8.13,0,1,3,3,68,Good,Yes,61,81,Placed,798565.0,HCL,Gurugram
+559,2021,EE,Female,6.94,0,2,2,1,73,Good,Yes,76,86,Placed,750847.0,HCL,Gurugram
+560,2023,CE,Male,7.54,0,1,1,1,61,Good,No,86,64,Not Placed,,,
+561,2022,CE,Male,8.22,2,0,0,1,53,Poor,No,97,94,Placed,585581.0,TCS,Pune
+562,2021,CSE,Male,6.25,0,3,0,2,95,Average,No,73,71,Placed,818691.0,Amazon,Pune
+563,2023,CSE,Female,8.15,0,0,2,3,63,Average,Yes,94,87,Placed,674929.0,Wipro,Gurugram
+564,2023,CSE,Male,6.05,1,1,3,1,98,Excellent,Yes,55,60,Placed,803201.0,Capgemini,Delhi
+565,2022,ECE,Male,6.82,1,1,2,1,78,Average,No,89,93,Placed,646749.0,Hexaware,Hyderabad
+566,2021,ME,Female,8.5,0,0,3,2,65,Excellent,Yes,59,72,Placed,806000.0,Mindtree,Noida
+567,2021,ECE,Male,7.09,2,1,0,3,82,Good,No,66,63,Not Placed,,,
+568,2023,ECE,Male,6.68,2,0,1,1,75,Average,Yes,66,62,Not Placed,,,
+569,2023,IT,Male,7.66,0,1,1,3,78,Good,Yes,75,79,Placed,794412.0,Mindtree,Gurugram
+570,2023,ECE,Male,8.95,0,1,2,1,55,Excellent,No,73,85,Placed,832665.0,Ola,Bangalore
+571,2021,ME,Female,5.73,0,2,0,2,97,Excellent,No,63,96,Placed,785256.0,Wipro,Chennai
+572,2022,EE,Male,6.76,0,2,4,2,77,Average,No,97,58,Not Placed,,,
+573,2022,ECE,Male,8.55,0,0,1,1,98,Average,Yes,90,74,Placed,618469.0,L&T Infotech,Chennai
+574,2021,CE,Female,8.69,2,1,3,2,71,Average,Yes,96,82,Placed,637205.0,Wipro,Noida
+575,2024,IT,Female,7.73,1,1,2,3,45,Poor,Yes,86,94,Placed,717208.0,HCL,Hyderabad
+576,2022,BioTech,Female,6.21,0,0,4,1,73,Good,Yes,89,55,Placed,699797.0,Flipkart,Pune
+577,2023,CSE,Male,9.27,0,2,2,1,95,Excellent,No,85,94,Placed,942741.0,L&T Infotech,Bangalore
+578,2024,IT,Male,8.92,0,1,4,1,47,Average,Yes,86,77,Placed,896733.0,Infosys,Delhi
+579,2024,ECE,Female,7.98,0,0,0,1,69,Good,No,91,67,Placed,720411.0,Infosys,Mumbai
+580,2022,CSE,Female,7.23,0,1,2,2,66,Good,Yes,86,70,Placed,737774.0,Mphasis,Delhi
+581,2024,ECE,Male,7.47,2,0,3,1,46,Average,No,97,80,Not Placed,,,
+582,2024,BioTech,Male,7.07,2,1,1,2,66,Average,Yes,91,85,Not Placed,,,
+583,2022,ECE,Male,7.73,0,0,0,1,64,Good,Yes,93,55,Placed,634445.0,Amazon,Pune
+584,2022,ECE,Female,8.52,2,3,2,4,95,Excellent,No,92,71,Placed,990675.0,Tech Mahindra,Noida
+585,2024,CE,Male,7.9,0,2,4,1,85,Good,Yes,84,70,Placed,784845.0,Accenture,Pune
+586,2023,CSE,Male,7.05,1,1,2,0,80,Poor,No,86,91,Not Placed,,,
+587,2021,CSE,Male,8.76,0,1,2,0,54,Average,No,56,64,Placed,739699.0,Accenture,Hyderabad
+588,2024,CSE,Female,8.02,0,2,1,3,64,Poor,No,65,92,Placed,805721.0,Hexaware,Chennai
+589,2024,CSE,Female,8.28,2,1,0,1,61,Good,Yes,74,85,Not Placed,,,
+590,2023,CSE,Male,8.83,0,0,3,0,57,Good,Yes,91,64,Placed,874011.0,Zomato,Pune
+591,2024,CSE,Female,7.02,1,1,0,3,51,Average,Yes,63,88,Placed,775057.0,Tech Mahindra,Gurugram
+592,2024,CE,Female,7.17,0,2,2,3,62,Excellent,Yes,92,60,Placed,897680.0,Capgemini,Gurugram
+593,2021,CSE,Male,7.43,0,1,3,3,90,Good,Yes,73,82,Placed,754742.0,Capgemini,Bangalore
+594,2021,ECE,Male,6.4,0,1,1,1,84,Good,Yes,94,82,Not Placed,,,
+595,2021,IT,Male,8.04,0,2,2,1,78,Excellent,Yes,61,67,Placed,970254.0,Flipkart,Mumbai
+596,2022,ECE,Female,9.26,1,2,0,2,64,Poor,Yes,59,95,Placed,797746.0,Ola,Pune
+597,2022,CE,Male,5.73,0,2,2,1,49,Excellent,Yes,96,66,Placed,765526.0,Wipro,Gurugram
+598,2021,CSE,Female,7.78,1,0,1,1,69,Average,Yes,78,94,Placed,835097.0,Mphasis,Mumbai
+599,2021,CSE,Female,8.25,1,1,2,1,49,Average,Yes,95,56,Placed,842093.0,Amazon,Mumbai
+600,2022,CSE,Male,7.89,1,1,1,4,73,Excellent,No,61,62,Placed,739430.0,Flipkart,Mumbai
+601,2023,CSE,Female,7.72,0,2,2,1,85,Excellent,Yes,65,96,Placed,985958.0,IBM,Noida
+602,2024,CSE,Male,6.89,2,1,2,2,52,Good,Yes,63,63,Not Placed,,,
+603,2024,CSE,Male,7.96,0,0,1,1,93,Good,Yes,84,62,Placed,739121.0,Zomato,Hyderabad
+604,2021,CSE,Female,7.27,0,2,2,2,68,Good,No,95,57,Placed,796511.0,Tech Mahindra,Noida
+605,2023,CSE,Female,6.27,0,1,1,2,77,Excellent,Yes,57,63,Placed,758260.0,Mphasis,Mumbai
+606,2022,ECE,Male,8.34,0,0,2,1,80,Average,Yes,76,67,Placed,740726.0,L&T Infotech,Bangalore
+607,2021,CSE,Female,8.47,0,1,1,1,84,Excellent,No,94,63,Placed,827708.0,Hexaware,Mumbai
+608,2023,ECE,Female,7.54,1,0,2,2,48,Good,No,74,85,Not Placed,,,
+609,2023,ME,Male,7.38,0,1,1,1,52,Good,Yes,86,79,Placed,687669.0,TCS,Bangalore
+610,2023,CE,Female,8.06,0,0,2,2,76,Good,Yes,61,62,Placed,710826.0,Zomato,Mumbai
+611,2022,CSE,Male,7.96,1,1,1,2,53,Good,Yes,61,85,Placed,762598.0,Tech Mahindra,Delhi
+612,2022,EE,Male,8.13,0,1,2,2,76,Excellent,Yes,74,85,Placed,832299.0,Tech Mahindra,Chennai
+613,2024,CE,Male,6.96,0,1,1,1,48,Good,No,79,71,Placed,772023.0,Capgemini,Pune
+614,2024,CSE,Female,8.72,0,1,3,1,47,Excellent,Yes,89,73,Placed,823761.0,HCL,Bangalore
+615,2023,IT,Female,8.02,1,2,3,2,78,Average,No,78,57,Placed,930230.0,L&T Infotech,Gurugram
+616,2023,IT,Male,7.94,0,0,1,0,79,Good,Yes,94,84,Placed,770959.0,Infosys,Delhi
+617,2022,CSE,Male,6.91,0,0,2,4,93,Excellent,No,67,64,Placed,944081.0,Cognizant,Hyderabad
+618,2024,CSE,Female,8.0,0,2,0,4,42,Good,Yes,93,83,Placed,787528.0,L&T Infotech,Delhi
+619,2023,EE,Male,6.92,1,0,1,0,94,Good,Yes,58,94,Placed,754595.0,Amazon,Pune
+620,2024,EE,Female,7.05,1,3,2,0,95,Good,Yes,66,72,Placed,865975.0,IBM,Pune
+621,2024,CSE,Female,7.23,1,2,2,1,86,Excellent,Yes,71,66,Placed,860517.0,Ola,Delhi
+622,2023,CSE,Male,7.05,0,1,2,4,79,Excellent,Yes,55,77,Placed,794494.0,Paytm,Mumbai
+623,2022,ECE,Female,8.99,0,3,1,1,72,Average,No,71,65,Placed,841060.0,Accenture,Mumbai
+624,2023,ECE,Male,8.43,0,0,1,1,71,Excellent,Yes,56,63,Placed,831173.0,Zomato,Mumbai
+625,2023,ME,Female,8.74,0,1,1,2,46,Good,No,60,78,Placed,740309.0,Mindtree,Hyderabad
+626,2024,ECE,Female,6.64,0,1,2,1,58,Average,Yes,65,79,Not Placed,,,
+627,2023,ECE,Female,7.55,0,1,2,1,73,Excellent,Yes,97,79,Placed,833231.0,Flipkart,Hyderabad
+628,2022,EE,Male,6.59,0,2,2,1,53,Good,No,72,63,Placed,664164.0,Cognizant,Chennai
+629,2023,CSE,Female,7.31,1,0,1,2,89,Excellent,Yes,94,66,Placed,842020.0,Hexaware,Delhi
+630,2022,CSE,Male,7.16,0,1,1,1,86,Average,Yes,79,65,Placed,839295.0,Wipro,Noida
+631,2022,CE,Male,8.19,1,1,1,2,85,Poor,Yes,93,92,Placed,626261.0,TCS,Mumbai
+632,2024,IT,Male,7.52,0,1,0,3,95,Good,Yes,82,82,Placed,772196.0,Ola,Hyderabad
+633,2021,ME,Male,8.05,0,0,1,2,96,Average,No,70,62,Not Placed,,,
+634,2021,ME,Male,7.68,0,1,3,2,58,Good,No,66,64,Placed,787017.0,Flipkart,Delhi
+635,2024,CSE,Female,9.41,0,2,3,0,90,Average,Yes,95,79,Placed,873040.0,Capgemini,Noida
+636,2023,ECE,Female,6.46,0,0,2,1,93,Good,No,83,90,Placed,635944.0,Mphasis,Hyderabad
+637,2024,ME,Male,8.21,0,2,2,0,98,Poor,Yes,77,97,Placed,800168.0,Tech Mahindra,Gurugram
+638,2022,CSE,Female,8.6,2,1,0,2,65,Average,Yes,75,63,Placed,803849.0,TCS,Delhi
+639,2021,CSE,Male,7.12,1,2,3,1,56,Good,No,70,95,Placed,733114.0,Tech Mahindra,Hyderabad
+640,2024,ECE,Female,8.2,0,1,0,1,93,Average,Yes,95,62,Placed,752160.0,Flipkart,Mumbai
+641,2023,CSE,Female,8.04,1,0,4,0,67,Good,No,80,57,Placed,701231.0,Amazon,Hyderabad
+642,2024,ECE,Male,7.34,1,1,2,1,58,Excellent,No,91,72,Not Placed,,,
+643,2021,CSE,Female,7.22,1,2,1,2,66,Good,No,76,89,Placed,849019.0,Cognizant,Bangalore
+644,2024,ECE,Male,7.0,1,1,3,2,87,Excellent,No,64,71,Placed,853683.0,Infosys,Mumbai
+645,2024,CSE,Male,9.23,0,3,0,0,91,Average,Yes,61,90,Placed,878997.0,Zomato,Hyderabad
+646,2021,IT,Female,7.8,0,1,2,2,96,Average,Yes,63,82,Placed,705625.0,HCL,Chennai
+647,2022,ME,Male,7.83,0,0,2,1,58,Excellent,Yes,79,69,Not Placed,,,
+648,2022,CE,Male,6.57,0,1,1,2,72,Good,No,69,73,Placed,733137.0,Ola,Pune
+649,2021,EE,Male,6.95,0,3,2,3,90,Good,Yes,67,76,Placed,791740.0,Hexaware,Gurugram
+650,2024,ECE,Female,8.26,0,1,2,1,46,Good,Yes,96,60,Placed,763599.0,Mphasis,Noida
+651,2021,CSE,Male,6.86,2,2,2,1,68,Good,Yes,80,61,Placed,802215.0,Cognizant,Noida
+652,2022,ME,Male,6.87,2,2,0,2,94,Poor,No,75,63,Not Placed,,,
+653,2023,ME,Female,7.23,2,1,4,3,82,Good,No,77,74,Placed,619338.0,HCL,Gurugram
+654,2024,EE,Female,7.58,1,0,1,2,44,Good,Yes,82,91,Placed,701240.0,Amazon,Mumbai
+655,2022,ECE,Male,7.37,2,1,1,3,69,Good,Yes,92,65,Placed,844373.0,Infosys,Delhi
+656,2024,CSE,Male,8.08,0,1,1,2,88,Excellent,Yes,66,56,Placed,831110.0,IBM,Gurugram
+657,2021,CSE,Male,8.28,0,2,0,2,82,Average,Yes,78,76,Not Placed,,,
+658,2023,ECE,Male,8.01,0,1,1,2,95,Average,Yes,67,90,Placed,693708.0,Flipkart,Chennai
+659,2021,CE,Male,6.41,1,1,4,1,97,Excellent,No,94,59,Placed,796839.0,Mphasis,Hyderabad
+660,2023,ME,Female,6.97,0,2,1,2,47,Good,No,56,61,Not Placed,,,
+661,2024,ECE,Female,8.34,1,1,1,2,81,Good,Yes,93,60,Placed,827351.0,Mphasis,Delhi
+662,2024,BioTech,Female,7.92,0,1,1,2,51,Average,Yes,66,76,Placed,723136.0,Infosys,Noida
+663,2021,ME,Male,6.1,0,1,2,1,81,Average,Yes,93,64,Placed,653731.0,Capgemini,Chennai
+664,2023,CSE,Female,8.05,1,1,3,0,52,Good,Yes,68,94,Placed,857970.0,HCL,Gurugram
+665,2023,CSE,Male,6.42,0,1,1,2,65,Average,Yes,84,74,Not Placed,,,
+666,2024,CSE,Female,7.83,0,2,0,2,57,Excellent,Yes,95,82,Placed,884826.0,Wipro,Chennai
+667,2021,CSE,Female,9.13,0,1,1,4,81,Excellent,Yes,97,77,Placed,922292.0,TCS,Bangalore
+668,2023,CSE,Male,7.14,0,1,0,1,90,Excellent,No,73,89,Placed,832065.0,Mindtree,Chennai
+669,2024,CSE,Female,7.22,1,1,1,0,91,Average,No,85,55,Not Placed,,,
+670,2022,CSE,Male,8.33,0,0,2,0,88,Good,Yes,97,83,Placed,784835.0,Cognizant,Chennai
+671,2021,CSE,Female,6.72,0,0,1,2,59,Average,Yes,97,63,Placed,599996.0,Wipro,Chennai
+672,2022,IT,Male,7.36,0,3,2,0,55,Average,No,79,63,Not Placed,,,
+673,2021,CSE,Male,8.22,1,1,1,3,76,Poor,No,58,76,Placed,815624.0,IBM,Chennai
+674,2024,ME,Female,6.69,0,1,4,1,42,Average,Yes,67,56,Placed,554643.0,Mindtree,Pune
+675,2023,ECE,Male,7.33,1,1,3,3,66,Excellent,Yes,90,70,Placed,788018.0,TCS,Mumbai
+676,2023,BioTech,Female,7.8,1,0,2,2,54,Average,Yes,96,94,Not Placed,,,
+677,2023,CSE,Male,8.1,0,1,1,3,97,Average,Yes,91,60,Placed,794948.0,Cognizant,Pune
+678,2021,ECE,Female,7.69,2,1,1,1,73,Excellent,Yes,57,67,Not Placed,,,
+679,2024,BioTech,Female,6.93,1,1,2,2,84,Poor,Yes,70,87,Placed,675422.0,Ola,Mumbai
+680,2022,IT,Male,8.06,0,1,2,0,61,Good,Yes,80,73,Placed,699468.0,Accenture,Hyderabad
+681,2024,EE,Male,7.41,0,0,2,1,79,Average,Yes,94,69,Placed,678329.0,TCS,Pune
+682,2022,CSE,Male,8.12,2,0,3,1,62,Poor,Yes,93,87,Not Placed,,,
+683,2021,CSE,Male,7.45,1,3,4,2,98,Excellent,No,73,64,Placed,1006393.0,TCS,Delhi
+684,2021,CE,Male,7.05,0,1,1,0,88,Average,Yes,69,55,Placed,786156.0,Tech Mahindra,Delhi
+685,2022,IT,Female,7.11,0,1,2,3,43,Good,No,86,66,Placed,710999.0,TCS,Pune
+686,2022,ME,Female,7.17,1,0,0,0,90,Average,Yes,75,97,Placed,755184.0,Capgemini,Bangalore
+687,2022,ME,Female,6.55,1,0,1,1,93,Poor,Yes,55,83,Not Placed,,,
+688,2024,CSE,Female,7.02,1,1,2,0,96,Poor,Yes,60,71,Not Placed,,,
+689,2022,EE,Female,7.68,0,1,1,2,80,Average,Yes,81,58,Not Placed,,,
+690,2021,CSE,Female,7.95,1,1,3,0,62,Poor,Yes,77,83,Placed,762158.0,Cognizant,Noida
+691,2021,ECE,Male,8.05,0,0,1,3,86,Good,Yes,85,61,Not Placed,,,
+692,2023,ECE,Female,7.2,0,1,2,2,99,Good,Yes,66,67,Not Placed,,,
+693,2022,ME,Female,7.53,1,0,2,3,48,Average,No,75,59,Not Placed,,,
+694,2024,CSE,Male,8.19,3,0,2,1,63,Good,Yes,56,60,Not Placed,,,
+695,2024,CSE,Male,8.11,0,1,1,1,60,Excellent,No,59,88,Placed,930816.0,Paytm,Hyderabad
+696,2024,ME,Male,6.54,0,0,3,2,80,Excellent,Yes,63,61,Placed,802290.0,Wipro,Gurugram
+697,2023,CSE,Male,7.9,1,0,2,3,85,Good,Yes,74,82,Not Placed,,,
+698,2021,ME,Female,7.49,0,1,2,1,94,Excellent,Yes,72,64,Placed,766307.0,Flipkart,Delhi
+699,2024,CSE,Male,7.81,1,1,0,3,92,Average,No,76,58,Placed,732473.0,Paytm,Hyderabad
+700,2021,ECE,Male,6.04,1,2,2,0,55,Average,No,62,57,Placed,737475.0,Flipkart,Chennai
+701,2023,ME,Female,7.33,0,1,3,2,95,Good,No,88,79,Placed,780988.0,Infosys,Mumbai
+702,2022,CSE,Male,9.35,3,0,2,1,94,Good,Yes,63,77,Placed,792820.0,Flipkart,Bangalore
+703,2022,ECE,Male,7.25,1,0,3,0,64,Good,No,61,81,Placed,695328.0,Infosys,Gurugram
+704,2022,CSE,Male,7.29,2,3,2,1,65,Good,Yes,84,68,Placed,875223.0,Hexaware,Noida
+705,2024,CSE,Female,8.06,1,1,1,3,88,Excellent,No,72,92,Placed,816650.0,HCL,Gurugram
+706,2022,BioTech,Female,7.45,2,1,0,4,84,Excellent,Yes,81,86,Placed,902640.0,Flipkart,Hyderabad
+707,2024,ECE,Male,8.33,0,0,1,1,48,Good,Yes,70,77,Placed,560366.0,Wipro,Delhi
+708,2023,EE,Female,6.62,0,1,2,3,54,Good,Yes,75,94,Not Placed,,,
+709,2023,CSE,Male,8.31,2,0,3,2,78,Average,Yes,59,91,Placed,729349.0,Cognizant,Hyderabad
+710,2024,CE,Female,7.67,0,1,1,2,72,Average,No,83,57,Placed,652098.0,Cognizant,Mumbai
+711,2021,EE,Female,7.4,0,2,2,0,40,Average,No,91,89,Not Placed,,,
+712,2022,ME,Female,7.47,1,3,2,2,44,Good,Yes,97,67,Placed,825897.0,Ola,Delhi
+713,2022,ECE,Male,8.22,1,1,2,0,95,Poor,No,76,88,Placed,735067.0,Hexaware,Mumbai
+714,2022,ECE,Female,8.11,0,1,1,1,48,Excellent,No,68,78,Placed,851069.0,Flipkart,Noida
+715,2024,ECE,Female,6.7,2,3,1,2,83,Average,Yes,73,55,Not Placed,,,
+716,2023,IT,Male,8.37,1,1,1,3,45,Good,Yes,89,66,Placed,790971.0,HCL,Hyderabad
+717,2022,IT,Female,7.75,0,0,0,2,67,Poor,Yes,78,62,Placed,706297.0,Ola,Chennai
+718,2023,BioTech,Male,7.26,1,1,1,3,84,Average,Yes,96,73,Placed,775495.0,Amazon,Gurugram
+719,2022,CSE,Female,7.85,0,0,0,3,65,Excellent,Yes,60,63,Not Placed,,,
+720,2022,EE,Male,7.39,0,1,2,1,67,Good,Yes,57,82,Placed,664638.0,Tech Mahindra,Noida
+721,2024,IT,Female,8.63,0,1,1,1,79,Excellent,Yes,88,68,Placed,875740.0,Mindtree,Gurugram
+722,2021,CSE,Male,7.74,0,1,4,2,54,Excellent,Yes,56,81,Placed,935003.0,Hexaware,Noida
+723,2024,CSE,Male,7.02,0,1,1,3,45,Average,No,69,72,Placed,726402.0,HCL,Delhi
+724,2022,EE,Male,7.22,1,0,1,4,66,Average,Yes,91,96,Placed,649111.0,Amazon,Delhi
+725,2022,ME,Male,7.34,1,1,1,2,77,Excellent,Yes,69,95,Placed,775112.0,Capgemini,Delhi
+726,2021,IT,Male,8.66,0,2,0,2,43,Excellent,Yes,86,60,Placed,991673.0,Cognizant,Gurugram
+727,2023,CSE,Male,8.22,1,1,3,2,50,Good,Yes,75,87,Placed,864246.0,Wipro,Hyderabad
+728,2023,EE,Male,6.9,0,1,0,1,60,Good,Yes,71,91,Not Placed,,,
+729,2022,CSE,Male,9.54,0,3,4,1,69,Good,Yes,88,96,Placed,884445.0,Wipro,Hyderabad
+730,2023,CSE,Male,7.99,2,2,3,2,57,Average,Yes,86,79,Placed,828576.0,Amazon,Hyderabad
+731,2022,CSE,Female,8.69,0,0,2,3,74,Good,Yes,77,67,Placed,852534.0,Mphasis,Pune
+732,2021,EE,Male,7.39,0,0,2,4,42,Excellent,Yes,89,77,Placed,689771.0,Ola,Bangalore
+733,2021,CE,Female,7.63,1,1,2,1,51,Good,Yes,91,90,Placed,592494.0,Ola,Delhi
+734,2022,ME,Female,7.87,0,2,1,2,66,Poor,No,97,87,Placed,721814.0,HCL,Noida
+735,2021,ECE,Female,8.35,2,3,2,3,92,Average,Yes,95,75,Placed,880970.0,Mphasis,Noida
+736,2024,IT,Male,8.54,0,2,0,2,69,Average,Yes,91,88,Placed,972491.0,Infosys,Mumbai
+737,2024,ECE,Female,8.11,0,1,0,1,60,Average,Yes,87,90,Placed,746390.0,L&T Infotech,Delhi
+738,2021,EE,Male,7.28,0,1,2,2,77,Excellent,No,79,71,Placed,846000.0,HCL,Chennai
+739,2022,ECE,Male,7.1,0,0,2,2,60,Poor,Yes,91,64,Not Placed,,,
+740,2022,ECE,Male,7.73,0,0,3,2,99,Average,No,94,77,Placed,705790.0,Cognizant,Gurugram
+741,2021,ECE,Female,8.15,0,1,1,2,77,Average,No,75,56,Placed,731162.0,Tech Mahindra,Hyderabad
+742,2023,ECE,Male,7.34,2,1,3,3,79,Good,Yes,92,89,Not Placed,,,
+743,2024,EE,Male,8.25,2,1,1,1,54,Good,Yes,94,68,Placed,774658.0,Mphasis,Delhi
+744,2023,ME,Female,8.36,0,1,1,1,57,Average,Yes,88,95,Placed,658361.0,HCL,Mumbai
+745,2022,CSE,Female,7.16,0,0,1,2,91,Average,Yes,73,56,Placed,796157.0,Tech Mahindra,Noida
+746,2022,IT,Male,7.21,0,1,2,1,68,Average,Yes,81,73,Placed,800879.0,Ola,Bangalore
+747,2023,ECE,Male,7.4,2,0,1,4,87,Good,Yes,63,70,Placed,748058.0,Capgemini,Bangalore
+748,2021,ME,Female,7.45,3,1,2,1,77,Average,Yes,59,97,Not Placed,,,
+749,2023,IT,Male,7.43,0,2,3,1,99,Excellent,Yes,59,79,Placed,939967.0,Accenture,Mumbai
+750,2023,CE,Male,8.28,1,1,2,3,60,Good,No,79,55,Placed,717225.0,L&T Infotech,Delhi
+751,2024,CSE,Male,8.1,0,3,2,0,56,Poor,Yes,80,56,Placed,776556.0,Mphasis,Bangalore
+752,2024,IT,Female,7.83,0,0,3,3,80,Good,No,73,81,Placed,714243.0,Accenture,Pune
+753,2023,CE,Female,6.05,0,1,2,2,90,Average,No,84,56,Placed,709932.0,Hexaware,Hyderabad
+754,2023,ECE,Female,6.58,0,1,2,0,57,Good,No,90,84,Not Placed,,,
+755,2022,CSE,Female,8.0,0,1,1,3,96,Average,No,70,64,Placed,861778.0,Cognizant,Bangalore
+756,2024,EE,Male,6.01,0,2,3,0,94,Good,Yes,61,73,Placed,700782.0,Wipro,Chennai
+757,2024,CE,Male,8.01,1,1,2,2,76,Good,Yes,72,96,Placed,819183.0,Hexaware,Noida
+758,2022,ME,Male,7.07,0,2,1,0,99,Excellent,Yes,75,70,Placed,975560.0,Flipkart,Delhi
+759,2021,IT,Male,10.0,0,0,1,0,77,Average,Yes,85,67,Placed,772331.0,Accenture,Delhi
+760,2024,EE,Male,9.12,0,2,3,3,51,Average,No,55,62,Placed,832169.0,L&T Infotech,Delhi
+761,2024,CSE,Female,7.67,0,0,0,2,50,Good,No,57,85,Placed,735217.0,Wipro,Bangalore
+762,2021,ECE,Female,7.43,0,2,4,1,87,Excellent,Yes,85,79,Placed,945121.0,Cognizant,Pune
+763,2024,CSE,Female,8.5,0,1,1,2,91,Excellent,Yes,79,93,Placed,942514.0,Infosys,Hyderabad
+764,2024,EE,Male,8.69,0,1,3,2,88,Poor,Yes,62,75,Placed,708900.0,Capgemini,Gurugram
+765,2021,CSE,Female,6.65,0,1,1,3,59,Average,Yes,55,92,Placed,831450.0,Amazon,Gurugram
+766,2021,ME,Female,5.77,0,3,2,1,48,Good,Yes,61,95,Placed,796420.0,Flipkart,Noida
+767,2023,EE,Male,7.06,0,0,3,3,40,Average,Yes,61,83,Placed,653495.0,Capgemini,Chennai
+768,2022,IT,Female,8.21,1,1,2,2,97,Average,No,62,60,Placed,744936.0,Paytm,Hyderabad
+769,2022,ECE,Male,7.85,1,2,2,2,42,Average,Yes,73,72,Not Placed,,,
+770,2021,IT,Male,8.55,0,1,0,4,60,Good,No,71,89,Placed,796155.0,Mphasis,Noida
+771,2021,CSE,Male,6.96,0,0,0,1,62,Excellent,Yes,65,81,Placed,786936.0,HCL,Mumbai
+772,2024,IT,Male,6.18,0,1,1,1,48,Excellent,No,95,59,Not Placed,,,
+773,2023,CSE,Male,8.4,0,1,2,1,93,Average,Yes,65,61,Placed,807247.0,Zomato,Mumbai
+774,2023,ECE,Female,6.92,0,2,1,1,58,Good,No,92,64,Not Placed,,,
+775,2021,EE,Female,6.09,0,2,1,1,84,Excellent,No,95,64,Placed,776410.0,Infosys,Chennai
+776,2024,CSE,Female,7.9,0,1,2,2,94,Average,Yes,56,82,Placed,793397.0,Hexaware,Bangalore
+777,2024,CSE,Female,8.36,2,3,2,1,85,Good,Yes,58,90,Placed,937894.0,TCS,Chennai
+778,2022,EE,Male,7.41,0,1,2,1,91,Good,No,82,64,Placed,720427.0,L&T Infotech,Chennai
+779,2022,EE,Female,7.18,0,0,1,1,58,Average,Yes,87,89,Not Placed,,,
+780,2024,CE,Male,7.07,0,0,0,1,62,Good,Yes,65,89,Placed,609394.0,Cognizant,Mumbai
+781,2022,CE,Male,6.9,2,1,4,1,66,Poor,Yes,57,91,Not Placed,,,
+782,2021,ME,Male,6.12,1,0,1,2,66,Good,No,94,74,Not Placed,,,
+783,2024,CSE,Male,7.3,0,3,3,0,78,Average,No,59,67,Placed,764130.0,L&T Infotech,Delhi
+784,2022,ECE,Male,7.86,1,2,3,4,75,Average,Yes,75,65,Placed,820795.0,HCL,Bangalore
+785,2023,CSE,Male,8.03,0,0,3,1,51,Average,Yes,76,73,Placed,688618.0,Zomato,Noida
+786,2024,IT,Male,7.92,1,1,1,3,94,Excellent,No,91,82,Placed,813357.0,Accenture,Pune
+787,2024,ME,Female,6.4,1,1,3,0,66,Good,No,65,92,Not Placed,,,
+788,2023,ECE,Male,7.37,0,3,3,2,85,Good,No,76,58,Placed,813680.0,Hexaware,Chennai
+789,2021,ECE,Male,5.98,1,2,2,2,73,Good,Yes,95,91,Not Placed,,,
+790,2023,BioTech,Male,7.34,0,1,1,3,72,Good,Yes,67,73,Placed,724051.0,Paytm,Delhi
+791,2024,CSE,Female,8.8,0,2,1,2,67,Average,Yes,57,91,Placed,888450.0,Wipro,Noida
+792,2021,ME,Male,6.02,0,1,1,4,70,Good,No,67,68,Not Placed,,,
+793,2022,ME,Male,6.73,1,1,2,2,71,Average,Yes,82,85,Not Placed,,,
+794,2022,ME,Male,7.46,0,0,2,2,89,Average,Yes,65,82,Placed,673634.0,Infosys,Noida
+795,2022,CSE,Male,8.68,0,0,1,3,59,Good,Yes,65,90,Placed,782272.0,TCS,Gurugram
+796,2024,IT,Male,7.49,1,1,2,2,79,Average,Yes,75,92,Not Placed,,,
+797,2023,IT,Male,7.32,0,0,1,2,74,Average,No,75,73,Placed,820339.0,Wipro,Delhi
+798,2021,ME,Male,5.62,0,0,2,1,70,Good,Yes,61,96,Placed,654590.0,Amazon,Noida
+799,2022,CE,Male,7.28,0,1,3,3,97,Good,No,71,55,Placed,722408.0,Amazon,Mumbai
+800,2021,IT,Male,9.23,0,0,1,1,70,Good,No,68,77,Placed,833245.0,HCL,Noida
+801,2024,CE,Female,7.42,0,1,1,2,77,Good,Yes,87,82,Placed,806945.0,TCS,Delhi
+802,2022,CSE,Male,7.78,0,1,1,0,61,Good,No,65,58,Placed,784348.0,Accenture,Gurugram
+803,2024,ME,Male,7.46,3,3,2,1,84,Good,No,67,95,Placed,918117.0,Mphasis,Hyderabad
+804,2023,ME,Male,7.19,1,1,2,2,80,Average,No,55,72,Placed,771037.0,Amazon,Hyderabad
+805,2024,ECE,Female,6.93,0,0,4,2,48,Average,Yes,88,93,Placed,741754.0,Tech Mahindra,Noida
+806,2024,EE,Male,8.08,0,1,1,1,91,Good,Yes,63,79,Placed,797686.0,Hexaware,Hyderabad
+807,2023,IT,Male,7.96,0,2,4,1,48,Average,Yes,67,72,Placed,776227.0,Hexaware,Mumbai
+808,2021,IT,Female,7.81,1,3,0,1,54,Excellent,No,91,60,Placed,920669.0,Mindtree,Chennai
+809,2023,ECE,Male,6.82,0,1,2,2,52,Excellent,No,84,73,Placed,803052.0,Mindtree,Pune
+810,2023,CSE,Male,8.71,0,1,0,1,61,Average,No,95,66,Placed,753013.0,Wipro,Hyderabad
+811,2024,BioTech,Male,7.73,2,2,3,2,55,Poor,Yes,91,79,Placed,591057.0,Paytm,Chennai
+812,2021,IT,Female,7.41,0,0,2,2,71,Poor,Yes,61,89,Placed,608250.0,Mphasis,Delhi
+813,2022,CSE,Male,8.5,0,1,2,4,41,Average,Yes,68,55,Placed,773161.0,Cognizant,Chennai
+814,2023,IT,Female,7.45,2,1,3,0,65,Average,Yes,60,59,Placed,672180.0,HCL,Pune
+815,2021,IT,Female,7.25,1,0,1,0,53,Good,No,88,55,Placed,690875.0,Capgemini,Chennai
+816,2023,ME,Male,6.59,0,1,0,2,98,Excellent,Yes,70,62,Not Placed,,,
+817,2023,ME,Male,5.78,1,0,3,2,77,Good,Yes,91,93,Placed,703833.0,Accenture,Pune
+818,2023,ECE,Male,7.83,0,1,1,0,73,Average,Yes,90,97,Placed,825045.0,Wipro,Pune
+819,2023,CSE,Male,6.52,1,3,1,3,47,Average,Yes,60,72,Placed,782360.0,Zomato,Gurugram
+820,2024,ECE,Male,6.64,0,0,2,1,75,Good,Yes,62,63,Placed,658402.0,Flipkart,Delhi
+821,2021,EE,Female,6.05,1,2,2,1,60,Excellent,Yes,78,59,Placed,830277.0,Mindtree,Pune
+822,2021,CSE,Female,7.74,3,0,0,1,95,Excellent,Yes,57,58,Placed,750224.0,Flipkart,Hyderabad
+823,2021,ECE,Female,7.39,2,1,1,3,85,Excellent,Yes,58,83,Placed,778710.0,Zomato,Gurugram
+824,2023,ECE,Male,7.27,2,0,0,1,82,Good,Yes,86,55,Placed,707923.0,L&T Infotech,Mumbai
+825,2024,ME,Female,6.37,0,3,2,1,95,Good,No,55,84,Placed,798916.0,Infosys,Delhi
+826,2023,IT,Female,6.98,0,2,3,1,67,Average,Yes,88,55,Not Placed,,,
+827,2023,ECE,Female,7.83,0,1,4,2,85,Good,No,63,57,Placed,746272.0,Paytm,Hyderabad
+828,2021,ECE,Male,7.11,1,2,2,3,83,Average,No,66,76,Not Placed,,,
+829,2023,EE,Female,7.72,2,1,1,1,87,Good,Yes,64,62,Placed,772618.0,L&T Infotech,Gurugram
+830,2022,ECE,Male,6.88,0,3,3,1,45,Good,No,64,72,Placed,794364.0,Flipkart,Bangalore
+831,2023,CSE,Male,7.93,2,1,2,1,59,Average,Yes,77,79,Placed,825459.0,Infosys,Delhi
+832,2022,ECE,Male,8.41,1,2,1,2,70,Poor,No,60,74,Placed,766232.0,L&T Infotech,Hyderabad
+833,2023,CSE,Female,8.21,3,1,3,1,72,Poor,No,78,85,Placed,716458.0,Wipro,Noida
+834,2024,CSE,Female,7.51,2,0,3,3,83,Poor,No,78,84,Not Placed,,,
+835,2024,ECE,Male,7.68,0,1,2,0,46,Poor,Yes,75,70,Placed,622182.0,Flipkart,Bangalore
+836,2021,ECE,Male,7.33,0,0,2,0,47,Average,Yes,96,56,Placed,636356.0,Flipkart,Chennai
+837,2023,IT,Male,7.81,0,1,1,0,48,Average,Yes,85,71,Placed,689360.0,Mindtree,Gurugram
+838,2022,ECE,Male,7.27,0,1,1,3,41,Average,Yes,95,64,Placed,717734.0,Paytm,Pune
+839,2022,ME,Male,7.07,1,1,2,2,56,Excellent,No,84,61,Not Placed,,,
+840,2023,CE,Male,7.37,1,0,1,4,91,Average,Yes,88,96,Placed,670193.0,Infosys,Gurugram
+841,2022,CSE,Female,7.1,2,0,2,1,84,Average,Yes,72,63,Not Placed,,,
+842,2024,CE,Male,6.39,1,1,3,1,76,Good,No,66,71,Placed,653694.0,HCL,Delhi
+843,2022,CSE,Male,6.83,0,3,3,2,81,Excellent,Yes,89,63,Placed,957579.0,Wipro,Pune
+844,2021,BioTech,Male,5.92,0,1,2,2,83,Good,No,61,63,Placed,718131.0,Infosys,Chennai
+845,2024,CSE,Female,6.95,0,1,3,2,56,Average,No,95,91,Placed,616226.0,Flipkart,Gurugram
+846,2024,ECE,Female,7.61,0,1,3,1,92,Good,Yes,94,78,Placed,787593.0,Paytm,Pune
+847,2024,CSE,Female,7.18,0,1,2,0,77,Good,Yes,79,93,Placed,825797.0,Mphasis,Delhi
+848,2023,BioTech,Male,7.61,0,0,1,0,74,Good,Yes,60,65,Placed,672391.0,L&T Infotech,Noida
+849,2023,ME,Male,7.23,0,1,1,2,99,Good,Yes,55,62,Placed,805597.0,Amazon,Delhi
+850,2024,ME,Male,5.63,0,0,1,2,86,Excellent,No,70,79,Not Placed,,,
+851,2023,CSE,Female,8.26,1,3,1,3,78,Excellent,No,58,56,Placed,865369.0,Infosys,Delhi
+852,2022,EE,Female,8.07,0,0,1,1,69,Good,Yes,83,64,Placed,756469.0,Wipro,Delhi
+853,2023,CSE,Female,7.1,0,1,1,3,45,Good,Yes,92,78,Placed,790565.0,HCL,Noida
+854,2023,IT,Female,8.09,0,0,2,1,43,Good,Yes,82,70,Placed,738679.0,L&T Infotech,Mumbai
+855,2024,CSE,Female,7.2,3,0,3,0,90,Excellent,Yes,76,73,Placed,756782.0,Cognizant,Delhi
+856,2021,CSE,Male,7.87,0,2,1,4,76,Poor,Yes,62,85,Placed,715331.0,Wipro,Pune
+857,2021,CSE,Female,6.91,0,0,2,2,74,Excellent,Yes,86,65,Placed,770724.0,Mphasis,Mumbai
+858,2021,ECE,Male,6.24,1,0,2,2,97,Average,Yes,87,60,Placed,671179.0,Hexaware,Pune
+859,2022,ME,Male,6.89,0,1,0,2,96,Good,Yes,67,60,Placed,835297.0,Wipro,Mumbai
+860,2023,CSE,Male,7.71,2,0,3,1,48,Excellent,Yes,81,86,Placed,804870.0,Ola,Noida
+861,2021,EE,Male,7.22,0,0,2,2,45,Average,No,72,93,Placed,643967.0,Mindtree,Pune
+862,2024,ECE,Male,6.67,0,2,1,3,52,Good,No,72,67,Placed,745965.0,Paytm,Hyderabad
+863,2021,ME,Male,6.88,0,2,3,1,98,Average,Yes,67,57,Placed,759302.0,Amazon,Delhi
+864,2021,ECE,Male,7.69,1,2,1,2,61,Average,Yes,76,95,Placed,674691.0,TCS,Delhi
+865,2023,ECE,Male,7.47,0,2,2,2,67,Average,Yes,68,89,Placed,842494.0,L&T Infotech,Pune
+866,2023,ME,Male,7.35,0,1,0,1,69,Average,Yes,65,92,Placed,624718.0,IBM,Delhi
+867,2023,CSE,Male,7.33,0,0,3,1,91,Average,Yes,93,71,Placed,774348.0,Zomato,Chennai
+868,2022,CSE,Male,8.62,0,2,2,0,75,Excellent,No,76,57,Placed,942352.0,Tech Mahindra,Pune
+869,2022,IT,Male,6.98,0,2,2,2,41,Excellent,Yes,90,88,Placed,842901.0,Cognizant,Hyderabad
+870,2021,BioTech,Female,7.59,1,2,1,3,97,Average,Yes,71,66,Placed,730008.0,L&T Infotech,Hyderabad
+871,2023,ECE,Female,8.33,1,1,2,2,75,Good,Yes,86,78,Placed,742511.0,Paytm,Bangalore
+872,2021,CSE,Female,8.14,0,0,3,1,47,Poor,No,68,60,Placed,884161.0,Mindtree,Pune
+873,2024,CE,Female,7.04,0,2,2,2,84,Poor,No,96,96,Placed,672725.0,Hexaware,Pune
+874,2024,ECE,Male,7.13,1,1,2,3,81,Average,Yes,83,65,Placed,736372.0,Accenture,Pune
+875,2023,CSE,Female,8.53,0,3,2,1,89,Excellent,Yes,60,81,Placed,1009031.0,Accenture,Gurugram
+876,2023,CSE,Male,6.8,0,0,3,3,48,Excellent,Yes,58,78,Placed,755942.0,Infosys,Noida
+877,2024,CE,Male,6.42,0,0,2,2,40,Average,Yes,65,72,Placed,496877.0,Mphasis,Chennai
+878,2023,CE,Female,6.88,1,0,3,0,52,Average,Yes,94,81,Not Placed,,,
+879,2022,CSE,Male,8.67,2,2,3,1,89,Average,Yes,64,95,Not Placed,,,
+880,2022,CSE,Female,8.07,1,0,2,2,54,Good,Yes,82,75,Placed,731282.0,Flipkart,Mumbai
+881,2023,CSE,Female,7.12,0,0,1,2,71,Good,Yes,65,88,Placed,707382.0,Flipkart,Chennai
+882,2024,CE,Female,6.95,0,3,2,3,73,Average,Yes,89,87,Placed,741876.0,Ola,Chennai
+883,2021,CSE,Female,7.37,2,0,3,2,82,Good,No,69,72,Placed,728285.0,L&T Infotech,Gurugram
+884,2023,CSE,Male,7.3,0,2,1,1,70,Average,Yes,62,57,Not Placed,,,
+885,2023,EE,Male,8.19,3,1,2,1,53,Excellent,No,74,78,Placed,735845.0,IBM,Delhi
+886,2021,CSE,Male,6.84,2,2,3,2,93,Good,Yes,75,55,Placed,933057.0,Flipkart,Gurugram
+887,2023,CE,Male,8.49,0,1,1,1,86,Good,Yes,55,60,Placed,798756.0,L&T Infotech,Noida
+888,2021,CSE,Female,8.38,2,2,2,2,53,Good,Yes,83,73,Placed,850597.0,Paytm,Noida
+889,2024,CSE,Female,8.56,0,2,1,1,87,Excellent,No,78,76,Placed,978479.0,Accenture,Chennai
+890,2022,CSE,Female,7.48,1,0,1,0,94,Average,Yes,84,97,Placed,800075.0,Cognizant,Mumbai
+891,2024,EE,Male,7.4,0,0,3,1,68,Average,Yes,94,62,Placed,703480.0,Infosys,Gurugram
+892,2022,IT,Male,6.8,0,0,0,1,86,Excellent,Yes,89,59,Not Placed,,,
+893,2021,IT,Male,7.43,1,1,1,2,58,Average,Yes,87,63,Not Placed,,,
+894,2022,ECE,Male,7.85,1,2,3,1,66,Poor,No,74,75,Placed,839006.0,Mphasis,Hyderabad
+895,2024,CE,Female,8.24,0,1,1,3,48,Good,Yes,70,82,Placed,820611.0,Paytm,Hyderabad
+896,2022,CSE,Male,7.02,0,1,4,2,76,Excellent,Yes,63,58,Placed,778812.0,L&T Infotech,Hyderabad
+897,2021,CSE,Male,7.54,0,0,4,1,76,Good,Yes,85,78,Placed,789402.0,Accenture,Mumbai
+898,2022,IT,Male,7.69,0,2,1,1,82,Excellent,No,71,62,Placed,958706.0,Flipkart,Pune
+899,2023,CSE,Female,6.82,0,3,0,2,67,Good,Yes,85,71,Placed,924551.0,Amazon,Hyderabad
+900,2024,CSE,Female,8.21,0,0,2,0,91,Average,No,77,88,Not Placed,,,
+901,2023,CSE,Male,7.29,0,1,2,4,96,Good,No,60,74,Placed,723849.0,Tech Mahindra,Gurugram
+902,2021,CSE,Male,7.66,0,0,1,2,63,Good,Yes,84,70,Placed,858967.0,Mphasis,Bangalore
+903,2022,CSE,Male,7.48,0,1,2,0,67,Poor,Yes,61,64,Not Placed,,,
+904,2023,ME,Male,6.57,0,1,0,2,75,Average,Yes,94,88,Not Placed,,,
+905,2023,ECE,Female,7.5,0,0,3,1,91,Poor,No,96,97,Not Placed,,,
+906,2022,IT,Female,7.65,3,1,1,0,57,Good,Yes,65,64,Not Placed,,,
+907,2022,EE,Male,7.24,0,1,1,3,64,Excellent,Yes,88,84,Placed,660423.0,Amazon,Bangalore
+908,2024,ECE,Male,6.99,2,1,1,0,74,Good,No,66,84,Not Placed,,,
+909,2023,CSE,Female,8.02,1,1,4,2,43,Excellent,Yes,81,79,Placed,818662.0,Hexaware,Delhi
+910,2023,ECE,Male,8.66,1,0,2,4,53,Poor,Yes,66,97,Placed,640455.0,Tech Mahindra,Noida
+911,2021,ME,Female,7.31,1,2,3,1,78,Excellent,Yes,67,95,Placed,913213.0,Wipro,Delhi
+912,2024,CSE,Male,8.5,1,1,1,1,65,Excellent,Yes,62,61,Placed,913850.0,Tech Mahindra,Bangalore
+913,2021,CE,Male,6.09,0,1,1,0,47,Average,Yes,70,74,Not Placed,,,
+914,2023,ECE,Male,7.61,0,0,1,0,63,Excellent,Yes,83,71,Not Placed,,,
+915,2021,ME,Male,6.32,1,2,2,0,55,Average,No,89,57,Not Placed,,,
+916,2023,ECE,Female,6.47,0,3,2,3,59,Excellent,Yes,83,94,Placed,867075.0,Mindtree,Hyderabad
+917,2023,CSE,Male,7.28,1,0,2,3,54,Excellent,No,85,90,Placed,666435.0,Mindtree,Pune
+918,2021,BioTech,Male,8.15,0,1,1,2,46,Good,Yes,67,80,Placed,651725.0,Cognizant,Bangalore
+919,2021,EE,Male,8.17,1,0,4,1,97,Good,Yes,66,64,Not Placed,,,
+920,2022,CSE,Male,7.97,0,1,1,3,56,Average,No,56,88,Not Placed,,,
+921,2022,IT,Male,6.73,0,0,4,2,61,Good,Yes,87,68,Placed,655581.0,L&T Infotech,Gurugram
+922,2022,ECE,Male,7.36,0,1,0,1,61,Average,No,62,62,Placed,631483.0,Cognizant,Gurugram
+923,2023,IT,Female,8.01,1,1,2,1,93,Good,No,95,81,Placed,901735.0,Flipkart,Bangalore
+924,2021,EE,Male,7.62,2,1,1,0,51,Good,Yes,94,64,Placed,634020.0,Wipro,Bangalore
+925,2024,ECE,Male,6.21,0,1,2,3,57,Excellent,Yes,95,69,Placed,727624.0,Capgemini,Chennai
+926,2023,CSE,Female,7.18,1,1,2,2,95,Poor,Yes,86,91,Placed,831606.0,Cognizant,Noida
+927,2024,CSE,Male,7.76,0,1,2,2,85,Excellent,Yes,92,76,Placed,970639.0,HCL,Mumbai
+928,2021,ME,Female,7.63,0,0,2,2,86,Excellent,Yes,82,85,Not Placed,,,
+929,2023,CE,Male,5.44,0,0,2,2,54,Good,Yes,69,56,Placed,568113.0,Tech Mahindra,Mumbai
+930,2024,CSE,Female,7.69,0,2,2,0,76,Average,Yes,77,85,Placed,844734.0,HCL,Bangalore
+931,2024,CSE,Female,7.9,0,0,3,2,55,Poor,Yes,78,68,Placed,788257.0,Tech Mahindra,Noida
+932,2022,IT,Female,8.39,0,1,1,3,44,Poor,No,67,64,Placed,742462.0,Flipkart,Hyderabad
+933,2022,BioTech,Female,7.75,1,2,2,0,41,Good,No,75,84,Not Placed,,,
+934,2022,ME,Male,7.67,1,0,2,4,91,Good,Yes,66,90,Placed,811728.0,HCL,Gurugram
+935,2023,CSE,Female,7.24,0,1,1,1,67,Excellent,No,67,94,Placed,898427.0,Ola,Bangalore
+936,2021,CSE,Male,6.46,0,1,2,1,96,Average,Yes,93,69,Placed,734630.0,Paytm,Chennai
+937,2021,CSE,Male,7.52,0,2,1,2,80,Average,Yes,77,68,Placed,734812.0,Cognizant,Mumbai
+938,2022,IT,Male,8.5,0,3,1,3,93,Good,Yes,97,85,Placed,911087.0,Amazon,Bangalore
+939,2022,CSE,Male,8.78,0,1,1,1,66,Excellent,Yes,82,83,Placed,837125.0,Mphasis,Chennai
+940,2022,ME,Male,7.77,0,0,1,2,70,Excellent,Yes,68,81,Placed,749707.0,Amazon,Pune
+941,2024,CSE,Male,8.1,2,1,2,1,80,Excellent,No,71,75,Placed,793880.0,Wipro,Delhi
+942,2022,ME,Male,7.5,1,1,2,2,75,Good,No,78,63,Placed,789476.0,Wipro,Bangalore
+943,2024,CE,Female,6.76,0,1,4,0,86,Good,Yes,88,74,Placed,765256.0,Hexaware,Gurugram
+944,2021,IT,Female,7.71,0,0,2,0,82,Excellent,No,76,89,Placed,949938.0,Infosys,Noida
+945,2023,CSE,Male,8.97,0,0,0,0,40,Good,Yes,64,69,Not Placed,,,
+946,2023,CSE,Male,7.14,1,2,3,1,89,Average,Yes,62,78,Not Placed,,,
+947,2023,CSE,Male,8.93,0,1,3,1,68,Average,No,75,70,Placed,752655.0,Mphasis,Mumbai
+948,2023,IT,Male,7.57,0,1,2,2,40,Poor,Yes,91,90,Placed,604569.0,TCS,Delhi
+949,2024,IT,Male,8.73,1,1,2,1,47,Good,Yes,61,65,Placed,800063.0,Wipro,Delhi
+950,2024,ME,Male,6.07,0,2,4,0,96,Average,Yes,80,62,Placed,708353.0,Tech Mahindra,Hyderabad
+951,2022,ME,Male,7.67,0,1,2,0,55,Average,Yes,67,57,Placed,719257.0,Mindtree,Pune
+952,2024,CE,Female,6.61,0,0,3,0,97,Average,Yes,70,73,Placed,732809.0,Infosys,Delhi
+953,2022,CSE,Male,6.81,0,0,0,1,67,Good,Yes,84,95,Placed,806003.0,Ola,Delhi
+954,2022,IT,Male,7.95,0,0,1,0,61,Average,Yes,85,57,Placed,709127.0,Accenture,Gurugram
+955,2023,ECE,Male,8.21,0,2,2,1,57,Good,Yes,59,90,Placed,776965.0,Zomato,Pune
+956,2024,ECE,Male,6.91,0,1,2,1,61,Poor,Yes,86,79,Placed,695000.0,Cognizant,Hyderabad
+957,2024,ME,Male,6.0,0,1,3,2,80,Average,Yes,70,90,Placed,617526.0,Flipkart,Bangalore
+958,2022,CSE,Female,7.74,1,1,4,2,51,Good,No,63,65,Placed,730456.0,L&T Infotech,Chennai
+959,2022,CSE,Male,7.74,0,1,1,1,58,Average,Yes,76,70,Not Placed,,,
+960,2021,EE,Male,7.88,0,2,0,1,64,Average,Yes,94,71,Placed,801153.0,Infosys,Chennai
+961,2021,CSE,Female,8.46,1,1,3,1,89,Poor,Yes,91,96,Placed,826706.0,Infosys,Delhi
+962,2022,ME,Female,7.15,1,0,2,0,98,Excellent,Yes,68,78,Placed,751676.0,L&T Infotech,Noida
+963,2021,CSE,Female,9.1,1,0,1,0,44,Good,Yes,70,71,Placed,767645.0,Ola,Gurugram
+964,2021,ECE,Male,7.66,0,1,2,2,98,Average,Yes,97,74,Placed,651253.0,Capgemini,Bangalore
+965,2022,CSE,Female,7.56,0,3,2,1,73,Poor,No,74,76,Not Placed,,,
+966,2022,ECE,Male,6.37,1,1,3,4,78,Excellent,No,69,60,Placed,679034.0,IBM,Mumbai
+967,2024,CE,Male,6.99,1,2,2,1,98,Good,Yes,80,61,Placed,800166.0,Mphasis,Bangalore
+968,2022,CSE,Male,7.56,0,2,1,2,49,Good,Yes,63,68,Not Placed,,,
+969,2022,ME,Male,7.97,2,0,4,2,86,Good,Yes,55,65,Placed,764645.0,Mindtree,Mumbai
+970,2023,ECE,Male,7.82,0,0,2,1,96,Good,Yes,89,66,Not Placed,,,
+971,2024,CE,Male,6.26,3,0,2,1,46,Good,Yes,74,59,Not Placed,,,
+972,2024,IT,Female,7.92,2,1,1,2,99,Good,No,60,59,Placed,738424.0,HCL,Delhi
+973,2024,EE,Female,7.97,1,0,2,3,76,Good,Yes,96,74,Placed,716000.0,Amazon,Noida
+974,2023,CSE,Female,8.87,2,1,1,1,86,Poor,No,64,69,Placed,839148.0,Flipkart,Noida
+975,2022,CSE,Male,8.42,1,1,1,0,91,Excellent,Yes,87,80,Placed,987468.0,Mindtree,Pune
+976,2024,CSE,Female,8.33,0,1,2,1,99,Good,Yes,70,87,Placed,836910.0,Zomato,Gurugram
+977,2024,ME,Male,7.25,0,0,1,1,91,Average,Yes,90,84,Placed,615328.0,Mphasis,Mumbai
+978,2021,CSE,Female,8.07,0,1,2,3,54,Excellent,Yes,60,78,Placed,987480.0,Wipro,Noida
+979,2024,ECE,Male,8.37,0,1,1,2,81,Excellent,No,73,77,Placed,941430.0,Wipro,Noida
+980,2022,ME,Female,6.13,1,1,2,0,63,Excellent,Yes,85,63,Placed,785272.0,Accenture,Mumbai
+981,2022,ECE,Male,7.26,0,2,1,1,65,Excellent,Yes,56,57,Not Placed,,,
+982,2021,EE,Female,6.96,0,0,0,0,65,Excellent,No,72,90,Placed,630523.0,Mindtree,Hyderabad
+983,2024,CSE,Female,8.07,0,2,1,3,85,Average,No,96,61,Placed,766333.0,Wipro,Delhi
+984,2024,CSE,Male,8.66,2,1,4,3,65,Excellent,No,82,76,Placed,815687.0,L&T Infotech,Mumbai
+985,2024,EE,Male,7.08,0,1,3,0,97,Excellent,No,58,68,Placed,754348.0,Flipkart,Noida
+986,2023,ECE,Female,5.83,0,1,1,1,49,Average,Yes,55,83,Not Placed,,,
+987,2024,CE,Male,6.87,0,1,3,3,56,Poor,No,96,70,Placed,705692.0,Accenture,Gurugram
+988,2022,ECE,Female,8.14,1,0,2,0,92,Excellent,No,70,88,Placed,815919.0,Mphasis,Gurugram
+989,2022,CSE,Male,8.18,0,1,4,1,53,Average,No,56,64,Placed,863215.0,Infosys,Delhi
+990,2023,EE,Male,7.8,1,1,1,1,41,Excellent,No,90,61,Placed,748635.0,Amazon,Mumbai
+991,2023,EE,Male,7.3,0,1,2,0,87,Poor,Yes,55,79,Placed,614892.0,Infosys,Hyderabad
+992,2024,CE,Male,6.18,0,1,0,0,52,Poor,No,93,81,Placed,582988.0,Hexaware,Delhi
+993,2021,CSE,Female,8.16,2,2,1,4,66,Good,Yes,77,69,Placed,918516.0,Paytm,Pune
+994,2023,ME,Male,6.53,0,1,4,2,48,Average,Yes,80,86,Placed,626952.0,TCS,Pune
+995,2023,ECE,Male,9.03,0,0,2,1,46,Good,Yes,65,82,Placed,723448.0,Flipkart,Bangalore
+996,2024,CSE,Male,8.2,0,1,1,1,87,Good,No,96,63,Placed,924484.0,Cognizant,Hyderabad
+997,2024,IT,Male,7.39,0,2,1,2,49,Poor,Yes,55,61,Placed,774809.0,Tech Mahindra,Delhi
+998,2023,CSE,Female,7.37,0,2,2,1,95,Average,Yes,65,70,Placed,724510.0,Mphasis,Noida
+999,2021,BioTech,Female,7.13,0,1,2,1,93,Average,Yes,78,80,Placed,752981.0,Infosys,Pune
+1000,2023,ECE,Male,7.33,0,2,1,0,48,Average,No,64,89,Placed,649558.0,Flipkart,Delhi
+1001,2024,CSE,Female,8.58,0,0,4,2,61,Good,Yes,68,71,Placed,772183.0,Mphasis,Gurugram
+1002,2024,ME,Female,7.35,1,1,0,1,62,Good,No,68,77,Placed,717582.0,Wipro,Pune
+1003,2023,IT,Male,7.29,1,2,1,0,46,Poor,No,61,62,Placed,760763.0,Paytm,Delhi
+1004,2021,EE,Female,8.82,0,2,3,1,87,Good,Yes,77,56,Placed,825043.0,Hexaware,Delhi
+1005,2023,EE,Male,7.53,0,1,1,0,48,Poor,Yes,97,85,Placed,726273.0,Capgemini,Chennai
+1006,2023,CE,Male,7.82,0,2,1,4,66,Average,No,76,86,Placed,720691.0,HCL,Bangalore
+1007,2024,CE,Female,6.71,0,0,2,2,63,Average,No,90,83,Not Placed,,,
+1008,2021,IT,Male,8.05,0,2,3,1,68,Excellent,No,81,57,Placed,900434.0,Accenture,Gurugram
+1009,2022,CSE,Female,8.02,0,1,1,1,56,Excellent,Yes,56,62,Not Placed,,,
+1010,2021,ECE,Female,6.18,0,0,4,2,59,Excellent,No,93,56,Placed,746358.0,Paytm,Noida
+1011,2023,CSE,Male,9.21,0,0,3,1,46,Average,Yes,73,85,Placed,705427.0,Ola,Hyderabad
+1012,2023,BioTech,Female,8.23,0,1,1,2,82,Average,Yes,61,91,Placed,715629.0,Capgemini,Mumbai
+1013,2023,BioTech,Male,6.88,2,0,2,2,79,Good,No,66,74,Placed,724325.0,Flipkart,Chennai
+1014,2021,CSE,Male,7.03,0,1,1,1,46,Good,Yes,57,83,Placed,877595.0,L&T Infotech,Gurugram
+1015,2024,CE,Female,7.48,1,0,2,4,67,Excellent,No,59,71,Placed,831419.0,IBM,Hyderabad
+1016,2023,IT,Female,7.86,1,0,3,1,58,Average,Yes,62,64,Placed,735333.0,Cognizant,Hyderabad
+1017,2023,CSE,Male,8.05,0,1,4,1,59,Poor,No,68,95,Placed,594705.0,Flipkart,Pune
+1018,2021,ME,Male,7.35,0,1,1,2,83,Good,Yes,90,76,Placed,768942.0,Flipkart,Hyderabad
+1019,2022,IT,Female,8.15,0,1,2,3,78,Excellent,Yes,61,60,Not Placed,,,
+1020,2022,CSE,Female,8.81,0,1,2,2,79,Excellent,No,61,97,Placed,818641.0,Mindtree,Delhi
+1021,2024,CE,Female,7.65,0,2,1,2,46,Good,Yes,86,88,Placed,627837.0,Wipro,Mumbai
+1022,2024,CSE,Male,7.07,1,2,1,1,45,Excellent,Yes,62,85,Placed,973446.0,L&T Infotech,Pune
+1023,2023,IT,Male,8.75,0,1,0,1,64,Good,No,66,66,Placed,805226.0,Accenture,Delhi
+1024,2021,BioTech,Male,8.51,0,1,2,1,80,Excellent,Yes,64,66,Placed,821494.0,Paytm,Chennai
+1025,2023,BioTech,Female,9.72,1,0,2,2,98,Excellent,No,68,70,Placed,910252.0,HCL,Chennai
+1026,2024,ECE,Male,6.71,1,0,1,1,52,Excellent,Yes,63,79,Placed,709823.0,Cognizant,Chennai
+1027,2021,IT,Male,7.97,0,1,3,0,78,Average,Yes,92,76,Placed,681249.0,Zomato,Bangalore
+1028,2021,IT,Female,6.34,1,2,3,3,79,Average,No,84,81,Placed,737408.0,Mphasis,Delhi
+1029,2024,ECE,Male,7.89,0,0,2,1,61,Good,No,59,78,Placed,668396.0,Flipkart,Pune
+1030,2022,IT,Female,7.42,0,0,1,1,88,Good,Yes,55,66,Placed,742860.0,Wipro,Hyderabad
+1031,2022,CSE,Female,9.15,0,0,2,1,56,Excellent,Yes,55,72,Placed,689773.0,L&T Infotech,Noida
+1032,2021,ME,Female,6.58,0,2,1,1,87,Average,No,74,70,Placed,713885.0,Zomato,Noida
+1033,2023,CSE,Male,6.62,2,1,1,1,61,Average,Yes,65,58,Placed,651472.0,Amazon,Hyderabad
+1034,2022,CSE,Male,7.47,0,0,2,0,73,Good,Yes,80,66,Placed,718533.0,Cognizant,Delhi
+1035,2023,CSE,Female,6.42,0,1,0,0,47,Poor,Yes,57,87,Not Placed,,,
+1036,2022,CE,Female,7.8,0,1,0,1,88,Average,Yes,60,76,Placed,715828.0,Wipro,Gurugram
+1037,2022,ECE,Female,6.05,0,1,0,1,84,Average,Yes,97,72,Placed,615157.0,Flipkart,Delhi
+1038,2023,EE,Male,7.52,0,0,1,0,57,Good,Yes,65,87,Placed,605828.0,Cognizant,Pune
+1039,2024,CSE,Female,6.35,0,2,0,1,63,Average,Yes,62,81,Placed,830666.0,Cognizant,Noida
+1040,2022,ECE,Female,7.28,1,1,4,1,99,Excellent,Yes,83,96,Placed,757842.0,Paytm,Bangalore
+1041,2022,ME,Female,8.51,0,1,1,0,93,Good,Yes,64,73,Placed,696800.0,HCL,Pune
+1042,2023,EE,Female,7.75,0,0,1,3,99,Excellent,No,88,68,Placed,798208.0,L&T Infotech,Pune
+1043,2024,ECE,Female,6.9,0,1,1,3,81,Good,Yes,78,79,Not Placed,,,
+1044,2022,CE,Female,7.18,0,1,4,1,41,Average,No,71,88,Placed,740313.0,Accenture,Delhi
+1045,2022,IT,Male,7.81,0,1,2,1,41,Average,No,86,78,Placed,718610.0,Tech Mahindra,Delhi
+1046,2024,ME,Male,7.58,1,0,1,2,66,Poor,Yes,65,92,Not Placed,,,
+1047,2022,CSE,Male,6.84,3,2,3,2,53,Good,Yes,88,77,Placed,900112.0,Paytm,Mumbai
+1048,2024,CSE,Male,8.21,0,0,1,4,87,Average,Yes,78,59,Placed,802169.0,Wipro,Mumbai
+1049,2024,IT,Male,5.91,0,1,1,1,78,Average,No,59,90,Not Placed,,,
+1050,2023,CSE,Male,7.36,1,2,1,2,92,Good,No,83,78,Placed,771234.0,IBM,Mumbai
+1051,2021,IT,Male,7.46,0,1,1,3,92,Average,Yes,88,90,Placed,795586.0,Cognizant,Mumbai
+1052,2024,ME,Male,7.71,0,1,1,1,95,Average,No,70,59,Placed,856278.0,Ola,Hyderabad
+1053,2023,IT,Female,7.82,0,1,2,0,51,Good,Yes,79,93,Not Placed,,,
+1054,2021,EE,Female,6.52,1,1,1,1,71,Excellent,Yes,91,60,Placed,823133.0,Paytm,Pune
+1055,2022,BioTech,Male,6.41,0,2,2,0,67,Average,No,62,90,Not Placed,,,
+1056,2021,ECE,Female,7.64,1,0,0,0,94,Average,Yes,83,58,Placed,698465.0,Cognizant,Pune
+1057,2024,EE,Male,7.44,1,1,1,2,67,Excellent,Yes,79,64,Placed,727205.0,Mindtree,Bangalore
+1058,2024,ECE,Male,7.09,0,1,2,1,85,Poor,Yes,96,55,Placed,636331.0,TCS,Hyderabad
+1059,2024,ECE,Male,7.16,1,1,4,0,64,Excellent,No,77,75,Placed,850340.0,Infosys,Mumbai
+1060,2024,CE,Male,7.76,1,1,1,3,43,Poor,Yes,88,94,Placed,668651.0,IBM,Noida
+1061,2024,IT,Female,7.44,0,1,2,1,65,Excellent,No,57,93,Placed,948903.0,TCS,Gurugram
+1062,2023,BioTech,Female,7.13,0,2,1,1,75,Average,Yes,84,91,Placed,800056.0,Ola,Mumbai
+1063,2024,EE,Male,9.02,0,2,1,1,89,Excellent,Yes,88,57,Placed,883165.0,L&T Infotech,Gurugram
+1064,2023,ECE,Male,6.5,0,1,0,1,42,Average,No,86,85,Placed,612518.0,Tech Mahindra,Noida
+1065,2022,ECE,Male,6.2,0,1,1,1,40,Good,Yes,83,81,Placed,783688.0,L&T Infotech,Gurugram
+1066,2024,EE,Male,8.05,0,2,1,3,56,Poor,No,63,71,Placed,683846.0,Wipro,Bangalore
+1067,2024,CSE,Male,7.32,0,0,1,1,46,Average,Yes,56,77,Placed,607022.0,Accenture,Gurugram
+1068,2021,CSE,Male,7.58,2,0,3,2,87,Good,Yes,93,67,Placed,832463.0,Amazon,Gurugram
+1069,2022,ECE,Female,6.95,0,1,0,0,44,Good,Yes,61,81,Not Placed,,,
+1070,2024,CSE,Female,7.62,0,2,2,3,58,Excellent,No,59,74,Placed,882586.0,Flipkart,Chennai
+1071,2024,CSE,Male,8.92,0,2,1,2,78,Good,Yes,62,67,Placed,791274.0,Mindtree,Pune
+1072,2022,CSE,Female,8.36,0,1,2,3,85,Excellent,No,86,78,Placed,907110.0,Mindtree,Delhi
+1073,2023,CSE,Male,8.4,0,0,2,1,73,Good,Yes,72,95,Placed,739334.0,Mphasis,Noida
+1074,2024,CSE,Male,6.81,0,1,1,3,74,Excellent,Yes,92,57,Placed,743629.0,Cognizant,Delhi
+1075,2021,BioTech,Male,6.28,0,0,1,3,88,Excellent,Yes,72,97,Placed,723678.0,Paytm,Hyderabad
+1076,2024,ECE,Female,5.51,1,0,2,2,55,Average,No,95,64,Not Placed,,,
+1077,2021,ECE,Female,6.93,1,2,3,0,79,Excellent,No,70,55,Placed,708131.0,Mindtree,Chennai
+1078,2021,CE,Female,7.97,0,0,1,0,89,Excellent,No,75,67,Placed,712034.0,Flipkart,Hyderabad
+1079,2024,CSE,Male,8.16,1,2,0,1,86,Average,Yes,64,68,Not Placed,,,
+1080,2024,BioTech,Female,7.02,1,1,3,0,78,Good,Yes,96,87,Placed,858704.0,Capgemini,Gurugram
+1081,2021,EE,Male,7.48,0,1,1,2,66,Poor,Yes,58,56,Not Placed,,,
+1082,2022,CSE,Female,7.32,3,0,2,2,80,Excellent,No,62,56,Placed,794444.0,Tech Mahindra,Pune
+1083,2022,ECE,Male,7.64,1,1,1,2,77,Average,Yes,73,93,Placed,695274.0,HCL,Bangalore
+1084,2024,IT,Male,8.34,0,0,1,1,89,Poor,Yes,94,95,Placed,828618.0,L&T Infotech,Noida
+1085,2023,BioTech,Male,5.91,0,3,2,1,89,Good,Yes,94,85,Placed,900588.0,Amazon,Chennai
+1086,2022,ECE,Female,7.71,0,2,2,1,64,Good,Yes,63,58,Placed,836487.0,Accenture,Delhi
+1087,2024,ME,Male,7.95,0,1,1,1,65,Excellent,Yes,84,88,Placed,802037.0,Mindtree,Chennai
+1088,2022,CSE,Female,7.51,1,0,2,2,95,Excellent,No,71,73,Placed,800799.0,Accenture,Gurugram
+1089,2023,BioTech,Male,7.76,0,3,3,1,53,Good,Yes,94,91,Placed,836635.0,Paytm,Gurugram
+1090,2024,CSE,Female,9.77,1,1,2,2,53,Poor,No,69,63,Placed,698303.0,Zomato,Mumbai
+1091,2023,BioTech,Female,7.12,1,0,0,1,53,Good,No,58,78,Not Placed,,,
+1092,2024,CE,Female,7.51,1,1,2,3,64,Good,Yes,60,67,Placed,607555.0,Zomato,Bangalore
+1093,2023,ME,Male,6.61,1,3,2,1,75,Good,Yes,70,84,Placed,795708.0,Wipro,Noida
+1094,2022,ME,Male,7.35,0,0,3,1,43,Average,Yes,80,73,Not Placed,,,
+1095,2022,CSE,Male,8.12,0,0,2,0,86,Good,No,91,95,Placed,900753.0,Paytm,Gurugram
+1096,2023,CSE,Female,7.94,1,3,1,1,54,Average,Yes,77,64,Placed,832581.0,Tech Mahindra,Chennai
+1097,2023,CSE,Male,7.09,0,0,2,2,71,Good,Yes,67,96,Not Placed,,,
+1098,2023,CSE,Male,7.94,0,0,2,2,57,Good,Yes,71,68,Placed,680242.0,Mphasis,Bangalore
+1099,2024,EE,Male,8.52,2,1,0,1,53,Excellent,Yes,81,94,Not Placed,,,
+1100,2022,ECE,Male,7.81,1,2,2,1,97,Good,Yes,76,74,Placed,850299.0,Infosys,Mumbai
+1101,2024,CSE,Female,8.47,0,1,1,2,40,Average,Yes,91,58,Placed,737475.0,Zomato,Gurugram
+1102,2022,BioTech,Male,7.01,1,3,2,1,81,Excellent,No,73,92,Placed,867841.0,L&T Infotech,Bangalore
+1103,2021,IT,Female,8.32,1,1,1,1,59,Good,No,93,93,Placed,797349.0,HCL,Noida
+1104,2024,IT,Male,8.0,0,0,2,3,49,Average,Yes,89,59,Placed,728100.0,Cognizant,Mumbai
+1105,2022,BioTech,Male,6.44,0,3,3,1,49,Good,Yes,67,96,Placed,919889.0,Mphasis,Noida
+1106,2022,CSE,Male,8.02,2,1,3,2,98,Average,No,68,86,Placed,700151.0,Mphasis,Bangalore
+1107,2024,ECE,Male,6.81,0,0,3,2,63,Excellent,Yes,85,60,Placed,673921.0,Hexaware,Bangalore
+1108,2024,EE,Male,7.06,0,1,4,3,73,Good,No,56,68,Placed,720554.0,Ola,Chennai
+1109,2022,CE,Female,7.35,0,1,0,2,67,Good,Yes,93,60,Placed,713361.0,Mphasis,Mumbai
+1110,2024,CSE,Male,8.01,1,0,2,0,66,Poor,No,91,68,Placed,707404.0,Wipro,Noida
+1111,2023,EE,Female,6.67,0,0,2,1,79,Average,Yes,68,66,Placed,594896.0,Paytm,Gurugram
+1112,2024,CSE,Male,8.54,0,1,3,4,40,Excellent,Yes,63,81,Placed,882237.0,Ola,Mumbai
+1113,2024,CSE,Male,8.2,0,2,1,1,72,Excellent,No,64,80,Placed,850857.0,HCL,Pune
+1114,2024,ME,Female,6.64,3,1,4,2,43,Average,Yes,61,66,Placed,641982.0,HCL,Noida
+1115,2022,ME,Male,5.97,0,3,2,3,46,Average,Yes,82,62,Placed,760270.0,Mphasis,Delhi
+1116,2023,ME,Male,7.08,0,0,3,2,48,Average,Yes,79,64,Not Placed,,,
+1117,2021,CSE,Male,7.49,2,0,0,1,55,Good,No,82,70,Not Placed,,,
+1118,2021,IT,Male,7.88,0,0,1,0,44,Good,Yes,56,80,Not Placed,,,
+1119,2023,CSE,Female,7.55,3,0,3,1,73,Good,No,71,62,Not Placed,,,
+1120,2023,CSE,Male,6.39,2,0,0,1,99,Good,Yes,58,95,Placed,801111.0,Ola,Delhi
+1121,2023,IT,Female,7.53,2,2,3,4,62,Excellent,Yes,67,83,Placed,851119.0,Cognizant,Chennai
+1122,2022,BioTech,Female,6.96,0,2,0,2,82,Good,No,72,74,Placed,784168.0,Paytm,Noida
+1123,2021,IT,Male,8.24,1,3,2,2,89,Average,Yes,57,71,Placed,818300.0,Paytm,Bangalore
+1124,2023,EE,Female,7.01,1,0,1,1,64,Good,Yes,91,73,Placed,667918.0,Infosys,Bangalore
+1125,2022,CE,Male,8.54,3,2,2,0,96,Excellent,Yes,87,71,Placed,890025.0,Cognizant,Delhi
+1126,2021,ME,Female,5.67,0,1,2,1,90,Good,Yes,95,93,Placed,754521.0,Zomato,Gurugram
+1127,2024,CSE,Male,8.72,1,0,1,1,52,Good,Yes,78,55,Placed,729337.0,Cognizant,Pune
+1128,2022,ECE,Female,7.34,0,2,1,1,63,Good,Yes,62,83,Placed,728518.0,Mindtree,Delhi
+1129,2021,ECE,Male,8.1,0,1,0,1,50,Excellent,Yes,89,68,Placed,827794.0,Accenture,Noida
+1130,2022,CSE,Male,7.86,0,0,2,1,91,Good,Yes,56,71,Placed,805150.0,L&T Infotech,Delhi
+1131,2021,EE,Female,8.3,1,1,2,1,90,Average,Yes,87,67,Placed,901944.0,Paytm,Gurugram
+1132,2021,ECE,Female,7.23,0,0,2,4,56,Excellent,Yes,66,83,Not Placed,,,
+1133,2024,CSE,Male,7.03,0,1,2,1,76,Excellent,No,76,88,Placed,815762.0,L&T Infotech,Gurugram
+1134,2022,CSE,Male,8.79,3,1,2,2,52,Average,No,67,81,Placed,789908.0,TCS,Delhi
+1135,2023,CE,Female,7.11,0,3,1,1,66,Good,Yes,64,87,Placed,812366.0,Mindtree,Hyderabad
+1136,2024,CSE,Female,7.96,1,0,0,1,59,Good,Yes,71,83,Placed,785468.0,Amazon,Mumbai
+1137,2024,IT,Female,8.66,0,1,1,1,72,Average,No,97,91,Placed,778701.0,TCS,Gurugram
+1138,2021,ECE,Female,6.78,0,1,4,2,81,Excellent,Yes,59,93,Placed,834387.0,Capgemini,Chennai
+1139,2023,ECE,Female,7.92,1,1,3,1,71,Good,Yes,63,73,Placed,689540.0,Infosys,Gurugram
+1140,2022,ME,Female,6.73,2,1,1,0,47,Excellent,No,67,78,Not Placed,,,
+1141,2023,IT,Male,7.71,0,1,2,3,95,Average,Yes,77,68,Placed,808058.0,Accenture,Noida
+1142,2023,ECE,Male,7.55,1,2,3,0,68,Good,Yes,84,91,Not Placed,,,
+1143,2023,CE,Female,6.0,0,3,2,1,79,Poor,No,97,59,Placed,686183.0,Cognizant,Chennai
+1144,2023,ME,Female,6.58,0,2,0,1,58,Good,No,58,78,Placed,716721.0,Infosys,Hyderabad
+1145,2023,CSE,Male,8.75,0,2,0,1,45,Good,Yes,75,88,Placed,908303.0,IBM,Bangalore
+1146,2021,IT,Male,8.42,0,1,2,2,83,Good,Yes,97,85,Placed,787414.0,Flipkart,Delhi
+1147,2021,EE,Female,7.46,0,2,4,2,99,Poor,Yes,63,84,Placed,746655.0,Amazon,Pune
+1148,2024,CE,Male,7.39,0,1,2,1,78,Average,No,61,63,Placed,746236.0,Amazon,Chennai
+1149,2021,IT,Male,7.59,0,1,0,0,87,Poor,Yes,70,81,Placed,723155.0,Amazon,Gurugram
+1150,2024,IT,Male,8.75,0,1,1,2,80,Average,Yes,77,82,Placed,833942.0,Infosys,Pune
+1151,2024,CE,Male,7.04,0,1,3,1,60,Good,No,77,96,Placed,722414.0,Paytm,Chennai
+1152,2022,IT,Male,7.96,0,0,3,3,96,Good,Yes,85,80,Placed,819477.0,Ola,Delhi
+1153,2023,CE,Male,8.12,2,3,2,1,61,Good,Yes,59,72,Not Placed,,,
+1154,2021,CE,Male,6.58,1,1,2,2,81,Good,Yes,60,90,Placed,701489.0,Zomato,Noida
+1155,2022,ME,Female,8.45,0,0,0,3,49,Average,Yes,55,62,Placed,704186.0,Mindtree,Pune
+1156,2021,EE,Male,6.43,2,1,3,2,49,Average,Yes,82,72,Not Placed,,,
+1157,2024,CSE,Female,8.94,1,0,3,1,91,Average,No,72,74,Placed,860519.0,Flipkart,Delhi
+1158,2021,IT,Female,7.54,0,0,1,2,68,Excellent,No,78,86,Placed,899689.0,Ola,Delhi
+1159,2023,IT,Male,7.63,0,0,2,2,55,Good,Yes,67,83,Placed,679087.0,Capgemini,Gurugram
+1160,2024,CSE,Female,6.48,1,1,1,2,40,Average,Yes,87,72,Placed,791430.0,IBM,Chennai
+1161,2024,IT,Male,7.48,0,1,0,0,56,Average,Yes,64,61,Placed,751713.0,Capgemini,Mumbai
+1162,2022,CSE,Female,7.07,1,2,1,2,69,Excellent,Yes,61,55,Placed,889501.0,Tech Mahindra,Mumbai
+1163,2023,ECE,Male,7.07,1,1,1,0,65,Good,Yes,91,82,Placed,740671.0,L&T Infotech,Chennai
+1164,2024,EE,Female,7.4,1,1,1,0,92,Good,No,86,87,Not Placed,,,
+1165,2023,CSE,Female,8.47,3,1,2,2,85,Good,Yes,76,58,Placed,844559.0,Zomato,Delhi
+1166,2021,EE,Male,7.65,0,1,2,0,58,Average,Yes,70,74,Placed,669327.0,Zomato,Delhi
+1167,2023,IT,Male,8.02,0,2,2,2,92,Excellent,Yes,78,90,Placed,932543.0,Ola,Mumbai
+1168,2024,ME,Female,6.32,1,0,1,3,60,Good,Yes,68,85,Placed,667101.0,L&T Infotech,Hyderabad
+1169,2022,CSE,Female,7.18,0,0,0,3,56,Average,Yes,65,92,Placed,817203.0,Ola,Noida
+1170,2024,CSE,Male,9.06,1,2,2,2,85,Excellent,Yes,73,82,Placed,977877.0,Hexaware,Delhi
+1171,2023,ME,Female,6.61,3,1,1,1,79,Good,Yes,77,57,Not Placed,,,
+1172,2023,BioTech,Male,8.52,1,0,1,1,60,Average,No,88,60,Placed,654705.0,Cognizant,Mumbai
+1173,2024,CE,Female,7.01,0,0,3,1,92,Good,Yes,94,77,Placed,669090.0,Infosys,Mumbai
+1174,2023,CSE,Male,7.8,0,3,2,1,80,Average,Yes,67,61,Placed,854324.0,Wipro,Delhi
+1175,2021,CE,Female,8.06,0,2,3,1,79,Average,Yes,93,90,Not Placed,,,
+1176,2024,ME,Male,8.22,0,1,2,2,84,Good,No,82,55,Placed,852428.0,Flipkart,Mumbai
+1177,2022,EE,Male,7.42,1,1,1,1,88,Average,Yes,94,60,Placed,721918.0,Zomato,Chennai
+1178,2024,CSE,Male,7.53,1,1,2,1,58,Excellent,Yes,70,78,Placed,824193.0,IBM,Mumbai
+1179,2021,EE,Male,7.46,1,3,1,2,99,Excellent,Yes,82,91,Placed,952258.0,Ola,Mumbai
+1180,2021,ME,Male,7.47,0,3,2,1,46,Poor,No,58,90,Placed,774181.0,Cognizant,Hyderabad
+1181,2021,BioTech,Male,7.91,0,0,0,1,56,Good,Yes,82,78,Not Placed,,,
+1182,2021,ECE,Female,7.5,1,2,3,0,40,Excellent,Yes,66,92,Not Placed,,,
+1183,2021,CE,Male,7.7,0,0,1,2,76,Good,Yes,70,83,Not Placed,,,
+1184,2022,IT,Male,8.95,0,0,3,2,96,Good,Yes,90,91,Placed,890312.0,Tech Mahindra,Chennai
+1185,2023,CSE,Male,8.07,1,1,3,2,45,Average,Yes,74,86,Placed,722162.0,Infosys,Chennai
+1186,2021,IT,Male,8.02,1,1,2,1,65,Good,Yes,80,79,Placed,817914.0,Tech Mahindra,Bangalore
+1187,2021,CE,Male,5.98,0,3,2,2,41,Good,No,80,64,Placed,741805.0,HCL,Noida
+1188,2024,CSE,Male,5.96,2,0,2,2,98,Excellent,Yes,76,89,Not Placed,,,
+1189,2022,ECE,Male,7.77,0,1,3,1,71,Average,Yes,63,79,Placed,738083.0,Mindtree,Gurugram
+1190,2022,CE,Male,7.12,3,2,2,1,96,Excellent,Yes,59,81,Placed,975341.0,HCL,Pune
+1191,2023,CSE,Male,7.44,0,2,3,2,87,Average,Yes,71,86,Placed,854293.0,TCS,Pune
+1192,2022,ME,Male,7.39,0,0,2,1,93,Excellent,Yes,88,66,Placed,847200.0,Amazon,Gurugram
+1193,2024,ECE,Male,7.46,2,1,4,2,44,Good,No,56,58,Placed,651391.0,Zomato,Chennai
+1194,2024,CE,Male,8.1,0,1,2,1,76,Good,No,61,96,Placed,809128.0,L&T Infotech,Delhi
+1195,2023,CSE,Female,7.86,1,0,2,2,70,Good,Yes,90,80,Placed,699128.0,L&T Infotech,Bangalore
+1196,2024,IT,Male,7.28,1,3,3,1,51,Average,Yes,67,57,Placed,789052.0,Wipro,Chennai
+1197,2021,BioTech,Female,7.99,2,2,3,1,74,Average,Yes,74,71,Placed,640512.0,Ola,Bangalore
+1198,2021,BioTech,Male,7.03,3,0,2,1,69,Average,No,84,63,Placed,596817.0,Accenture,Noida
+1199,2024,EE,Female,7.87,0,0,1,3,87,Average,No,84,83,Placed,607623.0,Accenture,Bangalore
+1200,2023,CSE,Female,7.47,1,0,2,3,45,Average,No,65,55,Not Placed,,,
+1201,2022,EE,Male,7.05,0,2,4,2,54,Good,No,85,72,Not Placed,,,
+1202,2023,CSE,Female,7.86,0,0,3,2,54,Good,Yes,57,95,Placed,721747.0,Hexaware,Gurugram
+1203,2022,CSE,Male,7.81,1,1,3,0,55,Average,Yes,56,74,Placed,756327.0,Accenture,Mumbai
+1204,2024,ECE,Male,7.84,0,1,0,2,59,Excellent,No,57,95,Placed,799536.0,Infosys,Bangalore
+1205,2024,ECE,Female,7.31,0,1,2,1,52,Good,Yes,69,88,Placed,858153.0,L&T Infotech,Hyderabad
+1206,2021,EE,Female,6.21,0,0,2,1,83,Excellent,Yes,71,82,Placed,756839.0,Mindtree,Mumbai
+1207,2022,CE,Male,6.85,1,0,3,0,81,Good,Yes,61,89,Placed,721721.0,Flipkart,Gurugram
+1208,2023,ECE,Male,8.06,3,3,0,0,85,Average,Yes,59,70,Not Placed,,,
+1209,2024,CSE,Male,7.59,0,2,3,0,70,Good,Yes,88,75,Not Placed,,,
+1210,2023,BioTech,Male,7.0,0,2,2,1,73,Good,Yes,87,67,Placed,793979.0,Cognizant,Gurugram
+1211,2021,ECE,Female,8.19,2,0,1,0,68,Poor,No,70,89,Not Placed,,,
+1212,2022,ECE,Male,7.0,0,1,1,2,42,Poor,Yes,91,96,Placed,607411.0,Capgemini,Chennai
+1213,2022,CSE,Male,6.72,0,1,1,1,48,Average,Yes,57,86,Placed,709511.0,HCL,Delhi
+1214,2024,EE,Male,7.39,0,0,2,1,50,Average,No,97,92,Placed,681178.0,Accenture,Gurugram
+1215,2022,CE,Male,6.81,0,2,0,3,50,Good,Yes,75,60,Not Placed,,,
+1216,2024,CSE,Male,7.12,0,1,1,0,64,Good,Yes,95,92,Placed,763070.0,Capgemini,Pune
+1217,2021,CSE,Female,7.68,1,0,3,3,61,Average,Yes,62,92,Placed,764141.0,TCS,Delhi
+1218,2022,CE,Female,7.59,0,2,1,2,81,Good,Yes,76,67,Placed,833472.0,L&T Infotech,Chennai
+1219,2024,CE,Female,7.19,2,3,1,1,97,Good,Yes,59,93,Not Placed,,,
+1220,2023,CSE,Male,8.01,1,0,2,0,85,Average,No,71,67,Not Placed,,,
+1221,2024,BioTech,Female,8.65,1,1,2,0,48,Poor,Yes,91,66,Placed,706621.0,Accenture,Noida
+1222,2022,CSE,Female,7.56,0,1,3,1,59,Poor,Yes,68,87,Placed,780652.0,Amazon,Delhi
+1223,2021,ECE,Female,7.69,0,1,2,0,98,Average,Yes,93,82,Placed,737052.0,Wipro,Noida
+1224,2022,BioTech,Male,6.79,0,0,3,1,60,Average,Yes,95,57,Not Placed,,,
+1225,2022,ECE,Male,6.91,2,1,2,0,49,Average,No,82,72,Not Placed,,,
+1226,2024,CE,Male,6.73,0,3,1,2,61,Good,Yes,85,80,Placed,818224.0,HCL,Pune
+1227,2023,ECE,Male,7.16,0,1,1,0,68,Good,Yes,71,94,Not Placed,,,
+1228,2022,CSE,Male,8.05,0,0,2,2,48,Average,No,89,56,Placed,765943.0,Cognizant,Gurugram
+1229,2023,BioTech,Male,9.08,0,1,1,1,44,Average,Yes,94,58,Placed,705567.0,Mindtree,Chennai
+1230,2024,ECE,Male,7.0,0,1,2,2,79,Good,No,76,82,Not Placed,,,
+1231,2023,IT,Female,7.51,0,2,2,1,50,Excellent,Yes,83,82,Placed,859918.0,TCS,Mumbai
+1232,2024,CSE,Male,7.76,0,1,1,2,40,Good,Yes,64,79,Placed,792013.0,Hexaware,Chennai
+1233,2021,CSE,Male,8.08,0,0,1,1,92,Good,No,72,80,Placed,789803.0,Flipkart,Mumbai
+1234,2023,CSE,Female,7.98,0,0,1,2,81,Average,No,89,56,Placed,738149.0,Mindtree,Mumbai
+1235,2023,CE,Female,8.23,1,2,2,0,40,Average,Yes,70,96,Placed,745114.0,TCS,Mumbai
+1236,2021,ECE,Female,5.8,0,0,2,1,97,Excellent,Yes,61,88,Placed,794123.0,Mphasis,Chennai
+1237,2023,IT,Female,6.13,0,2,2,0,93,Poor,Yes,84,84,Placed,676115.0,Infosys,Hyderabad
+1238,2021,ECE,Male,7.15,0,0,1,1,78,Excellent,Yes,73,75,Placed,634658.0,Flipkart,Mumbai
+1239,2022,BioTech,Female,8.08,0,1,2,0,99,Good,No,77,91,Placed,858836.0,Accenture,Noida
+1240,2024,CSE,Male,6.7,2,1,3,1,85,Good,Yes,62,77,Placed,870260.0,Paytm,Mumbai
+1241,2021,IT,Male,5.69,0,3,1,0,44,Poor,Yes,71,87,Placed,769726.0,HCL,Mumbai
+1242,2023,EE,Male,7.9,1,3,2,1,88,Good,No,75,56,Not Placed,,,
+1243,2021,EE,Male,7.67,2,0,4,2,61,Good,Yes,80,81,Placed,798520.0,Mphasis,Chennai
+1244,2023,IT,Male,7.04,1,1,1,4,65,Average,Yes,82,76,Placed,840099.0,Tech Mahindra,Pune
+1245,2022,EE,Female,6.81,0,0,2,1,92,Average,No,93,88,Placed,672204.0,Zomato,Pune
+1246,2021,CE,Female,6.42,0,1,0,2,45,Excellent,No,87,70,Placed,801395.0,Flipkart,Delhi
+1247,2022,CSE,Male,7.88,1,1,2,2,71,Good,No,94,74,Placed,790108.0,Amazon,Gurugram
+1248,2024,CSE,Male,7.36,0,2,0,1,87,Good,Yes,73,80,Placed,898277.0,Ola,Chennai
+1249,2023,IT,Female,8.15,1,3,4,0,50,Poor,No,83,70,Placed,745286.0,Tech Mahindra,Hyderabad
+1250,2023,ME,Female,5.0,1,1,2,0,49,Good,Yes,74,60,Not Placed,,,
+1251,2022,EE,Male,6.9,1,1,3,3,86,Good,Yes,74,77,Placed,749121.0,Paytm,Gurugram
+1252,2024,ECE,Female,6.71,0,2,2,1,78,Good,No,64,96,Placed,768214.0,Paytm,Delhi
+1253,2021,CSE,Male,7.62,1,2,2,2,94,Good,Yes,66,91,Placed,835149.0,Wipro,Hyderabad
+1254,2021,CSE,Male,7.42,1,0,2,2,73,Good,No,87,62,Placed,779854.0,Infosys,Chennai
+1255,2023,CE,Female,7.84,1,1,3,1,70,Good,Yes,79,60,Placed,787265.0,Ola,Pune
+1256,2022,ECE,Male,6.2,0,1,4,1,51,Average,Yes,79,91,Not Placed,,,
+1257,2022,CSE,Male,7.83,0,0,2,2,90,Excellent,No,58,76,Placed,982012.0,Accenture,Delhi
+1258,2021,ECE,Female,7.89,0,0,4,0,83,Good,Yes,58,60,Placed,860096.0,Paytm,Gurugram
+1259,2024,CSE,Female,9.1,0,0,2,1,55,Average,Yes,63,86,Placed,846317.0,HCL,Chennai
+1260,2024,ME,Male,6.81,0,1,2,1,77,Good,Yes,69,71,Placed,745777.0,Zomato,Hyderabad
+1261,2021,CSE,Male,8.03,2,0,2,4,42,Excellent,No,80,92,Not Placed,,,
+1262,2021,EE,Male,6.24,0,0,1,1,41,Average,Yes,69,71,Not Placed,,,
+1263,2022,ECE,Female,5.83,1,0,0,2,91,Average,Yes,80,91,Not Placed,,,
+1264,2024,ECE,Male,8.09,0,2,1,0,44,Good,Yes,82,77,Placed,735923.0,Paytm,Gurugram
+1265,2021,CSE,Male,7.8,0,2,2,0,50,Average,No,61,67,Placed,677980.0,Infosys,Gurugram
+1266,2021,CSE,Female,8.62,0,1,1,3,97,Good,No,86,86,Placed,805051.0,Cognizant,Noida
+1267,2023,ECE,Male,6.54,0,1,2,2,64,Average,No,66,76,Placed,635586.0,Flipkart,Bangalore
+1268,2021,ECE,Male,7.86,2,3,4,1,74,Good,Yes,89,61,Placed,826708.0,Ola,Gurugram
+1269,2021,ME,Male,8.7,0,0,1,2,74,Poor,Yes,86,76,Placed,736682.0,L&T Infotech,Bangalore
+1270,2024,CSE,Female,8.09,1,0,2,0,61,Poor,Yes,63,75,Placed,677866.0,Hexaware,Mumbai
+1271,2022,CE,Male,7.42,0,0,1,2,76,Excellent,Yes,68,60,Placed,794765.0,TCS,Chennai
+1272,2024,IT,Male,7.81,2,0,0,0,61,Good,Yes,67,68,Placed,766214.0,Wipro,Bangalore
+1273,2022,EE,Female,6.4,0,1,3,2,94,Average,No,87,70,Placed,706280.0,Amazon,Delhi
+1274,2023,CSE,Male,8.75,0,2,2,2,50,Average,No,86,57,Placed,837904.0,Wipro,Bangalore
+1275,2021,ECE,Male,7.07,0,1,3,1,71,Good,Yes,73,63,Placed,751461.0,Wipro,Gurugram
+1276,2023,CSE,Male,8.15,0,1,1,3,74,Good,Yes,84,75,Placed,755308.0,Infosys,Mumbai
+1277,2022,CSE,Male,6.71,0,3,2,4,70,Excellent,No,70,84,Placed,890069.0,Amazon,Pune
+1278,2024,BioTech,Male,6.26,2,0,1,1,84,Excellent,Yes,66,84,Not Placed,,,
+1279,2024,CSE,Male,8.8,1,0,1,3,92,Good,Yes,64,96,Placed,786938.0,Cognizant,Noida
+1280,2023,ECE,Male,7.26,1,1,0,2,47,Good,Yes,56,96,Placed,666728.0,Mphasis,Noida
+1281,2022,ME,Male,8.36,0,1,1,2,59,Good,Yes,72,86,Placed,698782.0,Flipkart,Noida
+1282,2023,CE,Female,7.14,0,0,1,4,81,Good,No,67,77,Placed,662446.0,Hexaware,Hyderabad
+1283,2023,ME,Female,5.73,0,1,1,1,73,Average,Yes,83,57,Not Placed,,,
+1284,2021,CSE,Female,8.42,3,1,4,2,43,Average,Yes,78,55,Placed,792002.0,Ola,Pune
+1285,2023,ECE,Female,7.09,1,1,1,3,57,Poor,Yes,92,57,Placed,634986.0,Mphasis,Hyderabad
+1286,2021,ME,Male,7.76,2,1,1,1,90,Poor,No,66,91,Placed,807513.0,Accenture,Noida
+1287,2021,CSE,Female,7.82,1,1,1,1,43,Average,Yes,83,61,Placed,787043.0,Paytm,Pune
+1288,2024,ECE,Male,6.42,0,0,2,1,59,Good,Yes,76,57,Not Placed,,,
+1289,2021,CSE,Female,7.92,0,1,0,2,97,Good,No,90,90,Placed,848098.0,Tech Mahindra,Bangalore
+1290,2021,CSE,Female,9.34,0,0,3,2,48,Good,No,55,57,Placed,846965.0,TCS,Mumbai
+1291,2024,ECE,Female,7.85,0,3,4,1,55,Average,No,97,58,Placed,773227.0,Flipkart,Noida
+1292,2023,CSE,Female,7.76,0,1,1,1,65,Poor,No,94,85,Not Placed,,,
+1293,2022,ME,Male,8.06,0,1,2,0,77,Good,Yes,88,56,Placed,757651.0,Ola,Noida
+1294,2022,CE,Male,7.37,1,2,0,0,64,Average,Yes,88,68,Placed,668287.0,Tech Mahindra,Chennai
+1295,2022,EE,Male,7.65,2,1,2,2,43,Good,Yes,87,91,Not Placed,,,
+1296,2023,CSE,Male,7.04,1,1,2,1,80,Excellent,Yes,58,85,Placed,839632.0,Flipkart,Delhi
+1297,2021,CSE,Male,7.96,2,2,1,2,98,Average,No,92,56,Placed,800436.0,Cognizant,Mumbai
+1298,2022,CSE,Female,8.52,0,2,1,2,84,Average,No,84,85,Placed,982525.0,IBM,Hyderabad
+1299,2023,CE,Female,6.53,0,1,2,3,80,Good,No,74,97,Placed,762114.0,Infosys,Noida
+1300,2021,CE,Male,8.34,1,0,2,1,77,Excellent,Yes,80,76,Placed,839623.0,TCS,Chennai
+1301,2024,CSE,Female,7.74,0,1,1,4,92,Good,No,69,64,Placed,832936.0,IBM,Hyderabad
+1302,2022,IT,Female,7.18,0,2,2,1,58,Excellent,No,61,84,Placed,882766.0,HCL,Bangalore
+1303,2021,CSE,Female,8.5,0,0,2,2,53,Average,Yes,61,87,Placed,652356.0,Flipkart,Bangalore
+1304,2022,ME,Female,6.97,0,0,3,2,60,Excellent,No,83,73,Placed,702602.0,Tech Mahindra,Bangalore
+1305,2022,CE,Male,7.81,0,2,1,1,54,Average,Yes,77,79,Not Placed,,,
+1306,2022,IT,Female,7.6,0,0,3,0,42,Poor,Yes,88,55,Placed,605373.0,Hexaware,Gurugram
+1307,2021,CE,Female,7.15,0,2,2,0,76,Excellent,No,74,86,Placed,785026.0,Tech Mahindra,Chennai
+1308,2023,EE,Male,7.85,1,1,1,2,92,Excellent,No,69,79,Placed,852551.0,Infosys,Pune
+1309,2021,ECE,Male,7.7,0,1,2,1,89,Poor,Yes,87,95,Placed,759377.0,Paytm,Mumbai
+1310,2022,EE,Female,6.1,0,0,2,4,85,Average,Yes,71,71,Not Placed,,,
+1311,2021,CSE,Male,7.02,0,2,4,1,55,Poor,No,74,68,Placed,753577.0,Tech Mahindra,Delhi
+1312,2024,IT,Female,8.45,0,1,1,4,53,Average,No,67,67,Placed,779200.0,Mindtree,Chennai
+1313,2023,ME,Female,7.09,1,1,2,1,48,Average,No,78,92,Not Placed,,,
+1314,2021,EE,Male,7.13,1,1,1,0,86,Excellent,Yes,91,93,Placed,788094.0,L&T Infotech,Pune
+1315,2024,ECE,Male,6.55,1,1,4,1,46,Good,Yes,61,56,Not Placed,,,
+1316,2023,CE,Female,6.34,0,3,1,3,53,Good,Yes,62,86,Placed,717819.0,Paytm,Chennai
+1317,2024,ME,Male,5.58,0,1,4,2,45,Good,Yes,77,86,Placed,743465.0,Amazon,Mumbai
+1318,2023,EE,Male,7.43,0,1,3,0,60,Good,Yes,68,94,Placed,640936.0,Capgemini,Bangalore
+1319,2021,CSE,Male,7.38,0,3,1,1,54,Good,Yes,58,60,Placed,836714.0,Ola,Pune
+1320,2024,CSE,Male,7.12,0,1,3,1,91,Good,Yes,75,79,Placed,917666.0,Amazon,Gurugram
+1321,2022,CSE,Female,7.75,0,0,4,2,47,Average,Yes,64,57,Placed,618112.0,Infosys,Delhi
+1322,2024,CSE,Male,8.05,0,0,1,1,73,Good,No,76,72,Placed,718541.0,Hexaware,Delhi
+1323,2023,IT,Female,9.27,1,2,2,2,79,Good,Yes,84,92,Placed,916855.0,Amazon,Noida
+1324,2021,CSE,Male,6.74,0,1,2,2,40,Excellent,Yes,84,97,Placed,834832.0,Cognizant,Mumbai
+1325,2023,BioTech,Male,8.13,1,1,1,3,71,Excellent,Yes,70,57,Placed,799131.0,Hexaware,Pune
+1326,2024,ECE,Female,8.18,0,1,0,2,97,Good,Yes,65,59,Placed,864567.0,Ola,Gurugram
+1327,2024,CSE,Female,7.25,0,0,1,1,88,Good,Yes,76,78,Placed,792503.0,Tech Mahindra,Chennai
+1328,2022,EE,Male,7.64,3,1,1,4,90,Poor,No,83,88,Placed,666564.0,L&T Infotech,Pune
+1329,2021,CE,Male,6.83,3,0,2,1,44,Good,No,79,93,Not Placed,,,
+1330,2021,ECE,Male,7.63,0,1,1,1,69,Average,Yes,68,78,Placed,718232.0,Flipkart,Bangalore
+1331,2024,ME,Male,8.41,0,1,3,3,61,Poor,Yes,68,90,Placed,659368.0,Ola,Noida
+1332,2021,CE,Female,7.68,0,1,2,0,59,Average,Yes,56,82,Placed,605408.0,Amazon,Pune
+1333,2022,CSE,Male,8.16,0,1,0,1,55,Good,No,67,88,Placed,896405.0,Hexaware,Chennai
+1334,2023,BioTech,Male,6.86,1,2,2,0,46,Average,Yes,57,70,Placed,694461.0,Capgemini,Chennai
+1335,2021,BioTech,Male,6.01,3,2,2,0,46,Excellent,Yes,84,90,Placed,790693.0,Mindtree,Hyderabad
+1336,2024,CE,Female,7.03,1,0,4,0,89,Poor,No,72,61,Placed,728139.0,Flipkart,Delhi
+1337,2023,CSE,Female,8.64,0,0,0,0,89,Excellent,No,90,72,Placed,798131.0,Wipro,Chennai
+1338,2023,CE,Male,5.98,1,1,1,1,41,Good,No,75,60,Placed,635502.0,Infosys,Mumbai
+1339,2022,CSE,Female,7.06,0,3,3,3,86,Average,No,73,82,Placed,717474.0,Hexaware,Bangalore
+1340,2024,CSE,Male,7.89,2,2,4,2,53,Average,No,70,93,Placed,786726.0,Wipro,Chennai
+1341,2021,CSE,Male,7.11,2,2,2,2,70,Good,Yes,82,88,Placed,780215.0,Ola,Chennai
+1342,2024,ECE,Female,6.95,0,1,3,2,89,Good,Yes,58,95,Not Placed,,,
+1343,2023,IT,Female,7.5,0,1,0,3,80,Good,No,69,83,Placed,758636.0,Zomato,Chennai
+1344,2024,EE,Female,6.54,0,1,2,3,53,Average,No,55,58,Placed,625329.0,Mindtree,Mumbai
+1345,2021,EE,Male,6.82,0,0,1,3,44,Good,No,70,68,Not Placed,,,
+1346,2021,ECE,Male,7.99,1,0,1,3,50,Excellent,Yes,74,59,Placed,856247.0,TCS,Chennai
+1347,2022,ECE,Female,6.58,0,3,3,1,79,Average,Yes,87,79,Placed,799011.0,IBM,Hyderabad
+1348,2021,ECE,Male,6.38,0,0,1,2,44,Good,Yes,71,93,Placed,670137.0,Zomato,Chennai
+1349,2021,BioTech,Male,6.7,0,0,2,2,68,Average,Yes,59,62,Not Placed,,,
+1350,2024,CSE,Male,8.31,1,0,4,2,50,Good,Yes,59,69,Placed,741811.0,IBM,Noida
+1351,2024,IT,Female,7.66,0,2,1,1,44,Good,No,93,73,Placed,808864.0,Tech Mahindra,Delhi
+1352,2023,ME,Male,6.83,2,1,4,0,88,Average,Yes,67,65,Not Placed,,,
+1353,2022,ECE,Male,7.53,2,1,4,0,93,Poor,No,90,74,Placed,803099.0,L&T Infotech,Noida
+1354,2024,EE,Female,6.28,2,2,2,3,71,Poor,No,84,90,Not Placed,,,
+1355,2021,ECE,Male,7.85,0,1,1,2,75,Good,Yes,58,72,Placed,776336.0,Flipkart,Delhi
+1356,2023,IT,Male,8.07,0,1,1,1,54,Good,Yes,77,68,Placed,714127.0,L&T Infotech,Mumbai
+1357,2024,IT,Male,7.51,0,0,2,1,58,Excellent,Yes,75,92,Placed,726905.0,Mphasis,Gurugram
+1358,2022,ECE,Male,8.2,0,0,1,2,61,Good,No,75,79,Placed,788784.0,Flipkart,Hyderabad
+1359,2022,CSE,Male,7.01,0,2,1,1,73,Average,No,60,70,Placed,731603.0,Zomato,Delhi
+1360,2023,ME,Male,8.1,1,2,4,1,95,Excellent,No,78,72,Placed,969444.0,IBM,Delhi
+1361,2023,IT,Female,7.91,0,1,1,0,56,Good,No,85,55,Placed,759323.0,Mindtree,Noida
+1362,2023,CSE,Male,7.56,2,1,2,0,51,Good,Yes,73,94,Placed,647778.0,Infosys,Chennai
+1363,2023,CE,Female,7.18,0,1,0,1,64,Poor,No,92,55,Not Placed,,,
+1364,2023,CE,Male,7.11,1,0,2,2,95,Average,No,66,55,Placed,695936.0,Cognizant,Bangalore
+1365,2021,EE,Male,8.35,1,0,3,0,56,Excellent,No,68,75,Placed,867992.0,Capgemini,Noida
+1366,2021,CSE,Male,7.05,1,0,1,1,49,Good,Yes,66,79,Not Placed,,,
+1367,2024,CE,Male,6.59,2,0,1,2,67,Average,No,69,81,Not Placed,,,
+1368,2022,IT,Female,8.53,1,2,2,2,96,Good,Yes,73,64,Placed,813204.0,L&T Infotech,Pune
+1369,2021,CSE,Male,7.38,2,0,2,1,57,Excellent,No,82,66,Placed,870616.0,IBM,Delhi
+1370,2021,CSE,Male,8.43,0,0,2,2,90,Average,Yes,94,82,Placed,621535.0,Tech Mahindra,Noida
+1371,2021,BioTech,Female,8.56,0,1,1,4,57,Good,Yes,95,86,Placed,739785.0,Tech Mahindra,Gurugram
+1372,2024,CSE,Female,7.52,0,2,1,3,84,Excellent,Yes,59,87,Placed,787301.0,Ola,Delhi
+1373,2023,IT,Female,8.28,0,0,4,2,71,Average,Yes,59,62,Placed,743262.0,Capgemini,Gurugram
+1374,2024,ECE,Male,6.69,0,0,3,2,53,Good,Yes,60,96,Placed,627792.0,Zomato,Gurugram
+1375,2022,CSE,Female,8.33,0,1,2,1,95,Good,No,77,80,Placed,882501.0,Accenture,Delhi
+1376,2022,IT,Male,7.94,0,1,3,2,55,Good,Yes,57,96,Placed,809837.0,Accenture,Pune
+1377,2022,ECE,Male,7.83,0,1,2,2,89,Average,Yes,91,95,Placed,757239.0,Ola,Gurugram
+1378,2022,ME,Male,6.68,0,2,2,1,97,Average,Yes,87,56,Placed,733964.0,Accenture,Bangalore
+1379,2021,ECE,Male,6.34,2,3,1,1,57,Good,Yes,97,89,Placed,866269.0,Paytm,Bangalore
+1380,2021,ME,Male,7.6,0,2,2,2,55,Average,Yes,75,88,Placed,655557.0,Wipro,Bangalore
+1381,2024,CSE,Male,6.36,1,1,2,4,56,Good,Yes,74,60,Placed,806285.0,TCS,Noida
+1382,2023,ECE,Female,7.28,0,1,0,1,46,Average,Yes,55,85,Not Placed,,,
+1383,2022,BioTech,Male,7.95,2,0,2,1,51,Poor,No,93,77,Not Placed,,,
+1384,2024,CSE,Male,7.93,2,3,3,2,73,Excellent,Yes,71,66,Placed,1047086.0,Cognizant,Chennai
+1385,2021,CE,Male,8.76,1,1,2,0,49,Good,Yes,83,82,Placed,815035.0,Wipro,Pune
+1386,2021,ECE,Female,8.22,1,0,2,2,44,Excellent,Yes,62,69,Placed,787301.0,TCS,Chennai
+1387,2023,EE,Male,7.04,0,1,3,0,60,Average,No,80,73,Placed,736984.0,Paytm,Gurugram
+1388,2023,CSE,Male,7.82,3,0,0,1,42,Good,Yes,82,66,Not Placed,,,
+1389,2023,BioTech,Female,7.16,2,1,2,2,58,Average,Yes,88,56,Placed,643491.0,Mphasis,Bangalore
+1390,2024,ECE,Female,6.39,2,1,3,0,84,Good,Yes,80,65,Not Placed,,,
+1391,2021,CSE,Male,7.14,1,1,2,1,83,Good,Yes,67,91,Placed,858841.0,Zomato,Gurugram
+1392,2021,CSE,Female,7.41,0,2,1,1,74,Average,Yes,91,92,Placed,715794.0,TCS,Bangalore
+1393,2023,CSE,Female,6.37,2,0,1,1,45,Excellent,Yes,67,79,Placed,720309.0,Ola,Noida
+1394,2022,ME,Female,7.24,0,1,3,2,53,Average,Yes,92,97,Placed,702908.0,TCS,Bangalore
+1395,2023,ECE,Male,7.33,0,1,2,2,43,Good,Yes,79,75,Not Placed,,,
+1396,2024,IT,Female,6.63,0,1,3,1,84,Excellent,Yes,77,96,Placed,859575.0,Paytm,Mumbai
+1397,2023,ECE,Male,7.78,2,2,2,1,90,Excellent,No,76,90,Placed,847753.0,Ola,Mumbai
+1398,2023,CSE,Male,8.3,0,1,2,0,57,Excellent,No,75,63,Placed,885704.0,TCS,Noida
+1399,2024,ME,Male,7.38,0,1,3,2,68,Average,Yes,84,66,Placed,717347.0,Accenture,Hyderabad
+1400,2023,CE,Male,6.94,0,0,2,0,74,Average,Yes,65,64,Not Placed,,,
+1401,2021,CSE,Male,8.21,1,3,1,3,91,Average,No,58,59,Placed,914039.0,HCL,Pune
+1402,2022,CSE,Female,8.28,1,1,2,2,77,Good,No,87,87,Placed,919876.0,Tech Mahindra,Chennai
+1403,2023,CSE,Male,8.02,0,1,3,2,55,Good,Yes,66,59,Placed,723907.0,Paytm,Mumbai
+1404,2024,EE,Male,6.92,0,0,1,2,59,Average,No,63,70,Placed,637914.0,Mphasis,Mumbai
+1405,2022,CE,Male,7.42,1,0,1,3,63,Good,Yes,86,91,Placed,666518.0,Hexaware,Hyderabad
+1406,2024,ECE,Male,8.34,3,1,0,3,74,Average,Yes,65,91,Placed,755945.0,Mphasis,Noida
+1407,2022,IT,Female,7.38,1,2,3,2,83,Average,Yes,91,83,Placed,837010.0,Flipkart,Chennai
+1408,2022,EE,Male,8.97,0,1,0,1,90,Good,Yes,78,72,Placed,740490.0,Tech Mahindra,Mumbai
+1409,2023,ME,Male,6.78,2,2,2,3,58,Good,Yes,61,83,Not Placed,,,
+1410,2021,IT,Male,7.82,0,1,2,0,95,Excellent,Yes,62,60,Placed,912964.0,Wipro,Bangalore
+1411,2023,CSE,Male,7.33,0,1,2,3,43,Average,No,87,72,Not Placed,,,
+1412,2024,CSE,Male,7.96,0,0,2,2,72,Good,Yes,79,86,Placed,808876.0,Wipro,Noida
+1413,2024,CSE,Female,6.58,0,2,0,3,41,Poor,Yes,55,96,Placed,733727.0,Hexaware,Noida
+1414,2022,CSE,Female,7.42,1,0,2,3,52,Average,Yes,57,85,Placed,671327.0,Ola,Gurugram
+1415,2022,ME,Male,6.33,0,2,3,0,97,Good,Yes,94,65,Placed,734408.0,Infosys,Bangalore
+1416,2021,IT,Female,7.89,0,2,3,2,84,Excellent,Yes,82,80,Placed,871519.0,Accenture,Hyderabad
+1417,2023,CSE,Female,8.5,0,3,1,0,69,Average,No,97,82,Placed,729516.0,Zomato,Noida
+1418,2024,CSE,Female,8.25,0,1,3,0,73,Average,Yes,87,81,Placed,760566.0,Mindtree,Hyderabad
+1419,2022,ECE,Male,5.84,0,1,2,1,69,Good,Yes,55,73,Placed,730967.0,Paytm,Bangalore
+1420,2021,IT,Male,9.23,0,2,3,0,90,Average,No,92,81,Placed,815475.0,Tech Mahindra,Chennai
+1421,2024,ECE,Male,7.71,0,0,2,2,93,Excellent,Yes,81,74,Placed,894725.0,Zomato,Mumbai
+1422,2022,ME,Female,6.58,1,1,2,4,63,Good,No,92,57,Not Placed,,,
+1423,2024,CSE,Female,7.91,1,0,3,2,87,Average,Yes,89,70,Placed,701173.0,Infosys,Hyderabad
+1424,2021,CSE,Male,7.92,1,1,3,1,83,Good,Yes,64,93,Placed,785678.0,Capgemini,Bangalore
+1425,2021,BioTech,Male,6.67,0,0,2,3,72,Good,Yes,66,83,Placed,621908.0,Accenture,Delhi
+1426,2024,BioTech,Female,7.36,2,0,1,3,80,Average,Yes,64,69,Not Placed,,,
+1427,2023,CSE,Female,7.37,2,1,1,2,88,Good,Yes,88,84,Placed,786344.0,TCS,Chennai
+1428,2024,BioTech,Female,6.88,1,1,1,2,49,Poor,No,78,94,Not Placed,,,
+1429,2022,CE,Female,6.65,1,1,1,3,57,Good,No,82,55,Placed,748560.0,Cognizant,Noida
+1430,2023,IT,Male,6.8,0,0,1,1,58,Average,No,76,83,Placed,583513.0,Wipro,Mumbai
+1431,2022,ECE,Male,7.6,3,1,3,3,46,Excellent,No,70,84,Placed,792467.0,Accenture,Chennai
+1432,2024,ME,Female,7.67,0,0,0,3,96,Average,Yes,67,94,Placed,660935.0,Hexaware,Delhi
+1433,2023,ECE,Male,7.86,0,1,2,3,58,Average,Yes,90,86,Placed,689113.0,Hexaware,Pune
+1434,2022,CE,Male,7.86,0,1,1,1,63,Excellent,Yes,90,64,Placed,814737.0,Wipro,Delhi
+1435,2024,CSE,Female,8.03,0,1,1,3,54,Poor,No,97,81,Placed,758072.0,Infosys,Hyderabad
+1436,2024,CSE,Male,7.43,3,1,0,1,80,Average,Yes,77,62,Placed,760958.0,Amazon,Chennai
+1437,2023,ECE,Female,8.09,0,1,1,2,81,Average,Yes,68,90,Placed,751859.0,Wipro,Delhi
+1438,2024,CE,Male,6.11,0,2,3,3,62,Average,No,86,96,Placed,543530.0,Hexaware,Delhi
+1439,2021,CSE,Female,7.17,1,1,3,0,91,Excellent,Yes,57,89,Placed,967894.0,TCS,Mumbai
+1440,2022,CE,Male,6.43,0,1,1,1,91,Good,Yes,81,90,Placed,726881.0,Flipkart,Gurugram
+1441,2022,BioTech,Male,8.06,0,1,2,3,43,Poor,Yes,73,90,Placed,701415.0,Tech Mahindra,Delhi
+1442,2024,CSE,Female,8.46,1,0,2,3,77,Good,Yes,76,79,Placed,761165.0,Ola,Noida
+1443,2024,CE,Male,7.59,1,1,3,3,43,Good,No,55,74,Placed,710509.0,Amazon,Pune
+1444,2021,ECE,Female,8.25,0,1,3,1,44,Excellent,No,59,71,Placed,847949.0,Hexaware,Hyderabad
+1445,2023,IT,Female,7.18,1,1,2,2,80,Average,Yes,87,77,Not Placed,,,
+1446,2024,CSE,Male,8.04,0,0,2,0,83,Good,Yes,73,79,Placed,823993.0,L&T Infotech,Chennai
+1447,2024,CE,Male,7.1,0,0,3,2,62,Good,No,90,85,Placed,697361.0,Wipro,Hyderabad
+1448,2024,IT,Male,8.39,0,2,0,1,79,Good,Yes,60,60,Placed,843023.0,Capgemini,Pune
+1449,2024,BioTech,Male,7.11,0,1,2,2,92,Good,Yes,69,89,Placed,716448.0,Hexaware,Pune
+1450,2022,CE,Female,6.89,1,0,3,1,76,Average,No,90,58,Placed,619267.0,Hexaware,Delhi
+1451,2024,ECE,Female,7.88,1,1,2,4,50,Good,No,87,94,Not Placed,,,
+1452,2022,ME,Female,7.9,0,1,2,2,94,Good,Yes,78,74,Placed,850644.0,Mphasis,Hyderabad
+1453,2024,IT,Female,7.33,0,2,2,2,50,Excellent,Yes,81,95,Placed,906787.0,Wipro,Bangalore
+1454,2023,ME,Male,7.15,1,0,1,1,52,Average,No,65,55,Placed,533685.0,L&T Infotech,Gurugram
+1455,2021,CSE,Female,7.06,0,0,2,2,53,Good,No,77,80,Placed,796623.0,Mphasis,Mumbai
+1456,2023,IT,Female,6.05,0,2,2,1,99,Excellent,No,87,88,Placed,904686.0,HCL,Pune
+1457,2024,CE,Female,7.36,3,0,2,0,47,Good,Yes,95,64,Placed,713566.0,Wipro,Pune
+1458,2024,CE,Female,7.69,1,0,2,2,64,Excellent,No,83,77,Not Placed,,,
+1459,2024,CSE,Male,7.98,3,3,3,3,57,Excellent,Yes,85,78,Placed,901051.0,Amazon,Gurugram
+1460,2023,CE,Female,5.64,0,1,1,1,90,Average,No,55,67,Placed,654502.0,Ola,Noida
+1461,2024,ECE,Male,7.25,1,0,2,1,83,Good,Yes,88,83,Placed,749713.0,HCL,Bangalore
+1462,2023,CE,Male,5.43,0,0,2,2,83,Average,Yes,72,81,Placed,626432.0,Wipro,Delhi
+1463,2022,CSE,Male,8.76,0,0,2,3,57,Good,No,72,85,Placed,602348.0,Ola,Hyderabad
+1464,2021,CE,Female,6.33,0,0,1,1,49,Average,Yes,60,97,Placed,555215.0,Mindtree,Noida
+1465,2021,BioTech,Female,8.2,0,2,2,3,46,Good,Yes,94,64,Placed,717750.0,TCS,Mumbai
+1466,2023,CSE,Female,8.46,0,1,3,3,99,Good,No,55,85,Placed,940235.0,Amazon,Noida
+1467,2022,BioTech,Female,6.48,0,1,2,1,89,Good,Yes,96,93,Placed,705512.0,Wipro,Chennai
+1468,2023,ECE,Male,6.71,0,2,3,1,83,Average,No,84,64,Placed,806428.0,Paytm,Pune
+1469,2022,IT,Female,8.05,1,1,4,2,53,Excellent,Yes,58,78,Placed,801169.0,Hexaware,Pune
+1470,2024,EE,Male,6.91,0,0,1,4,54,Poor,Yes,86,87,Placed,645693.0,Cognizant,Mumbai
+1471,2022,ME,Male,7.28,0,1,1,2,55,Poor,No,64,68,Not Placed,,,
+1472,2022,EE,Male,7.16,0,2,4,1,41,Average,Yes,97,89,Placed,746172.0,L&T Infotech,Mumbai
+1473,2022,IT,Female,6.55,0,2,4,1,69,Excellent,No,59,88,Placed,897750.0,Zomato,Pune
+1474,2021,ECE,Female,5.94,1,0,0,1,69,Excellent,Yes,63,71,Not Placed,,,
+1475,2022,ECE,Male,7.66,0,1,0,2,57,Good,No,59,75,Not Placed,,,
+1476,2024,CE,Male,6.75,1,1,1,1,70,Excellent,Yes,65,86,Placed,738679.0,Wipro,Pune
+1477,2024,EE,Female,7.11,0,2,4,2,83,Average,Yes,89,57,Placed,730119.0,Amazon,Mumbai
+1478,2024,EE,Male,7.99,0,0,1,0,87,Excellent,No,81,69,Placed,778157.0,Amazon,Mumbai
+1479,2022,EE,Female,8.32,2,1,2,1,52,Average,Yes,58,62,Not Placed,,,
+1480,2023,ECE,Female,7.31,1,2,3,0,59,Average,No,64,86,Placed,850268.0,Zomato,Hyderabad
+1481,2023,EE,Male,7.26,0,1,0,0,88,Average,No,93,92,Placed,731762.0,Mphasis,Mumbai
+1482,2024,CSE,Male,8.15,1,1,2,3,89,Good,No,87,80,Placed,770734.0,Tech Mahindra,Gurugram
+1483,2021,ME,Female,6.11,0,0,1,1,74,Good,No,92,84,Not Placed,,,
+1484,2023,CSE,Female,7.96,1,0,3,2,62,Average,Yes,62,63,Placed,748837.0,IBM,Gurugram
+1485,2022,ECE,Male,7.89,1,1,1,0,81,Excellent,Yes,78,86,Placed,786248.0,HCL,Pune
+1486,2023,ECE,Female,7.98,1,3,2,1,72,Good,Yes,93,65,Placed,752814.0,L&T Infotech,Bangalore
+1487,2024,ECE,Male,6.14,3,0,2,1,77,Average,Yes,87,76,Not Placed,,,
+1488,2021,CE,Male,6.59,0,1,1,0,74,Good,Yes,95,88,Placed,844553.0,Hexaware,Delhi
+1489,2023,ECE,Female,6.89,1,1,0,0,90,Good,Yes,97,95,Not Placed,,,
+1490,2023,ECE,Female,7.57,0,0,2,3,75,Excellent,Yes,73,72,Placed,750699.0,Hexaware,Delhi
+1491,2024,CSE,Male,8.14,0,1,1,0,59,Good,Yes,56,73,Placed,826400.0,Flipkart,Delhi
+1492,2021,ECE,Female,8.55,0,1,3,0,94,Good,Yes,65,72,Placed,861553.0,Amazon,Pune
+1493,2021,CSE,Male,7.45,0,2,3,3,42,Average,No,89,91,Placed,820050.0,L&T Infotech,Delhi
+1494,2024,CSE,Male,7.45,1,1,2,1,47,Good,Yes,71,72,Not Placed,,,
+1495,2022,ME,Male,8.12,0,1,2,2,79,Excellent,Yes,96,66,Placed,886001.0,IBM,Gurugram
+1496,2023,CE,Female,7.44,0,0,2,0,98,Poor,No,57,58,Not Placed,,,
+1497,2022,ME,Male,8.21,0,3,3,1,71,Excellent,Yes,76,97,Placed,955072.0,Mindtree,Pune
+1498,2023,ECE,Male,7.7,0,0,2,2,68,Good,No,89,81,Placed,716535.0,Hexaware,Delhi
+1499,2023,ECE,Male,6.69,2,2,1,4,46,Average,Yes,75,59,Placed,766004.0,L&T Infotech,Gurugram
+1500,2022,IT,Female,6.87,0,0,1,0,41,Excellent,Yes,79,60,Placed,731648.0,Tech Mahindra,Delhi
