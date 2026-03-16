@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from groq import Groq
 from dotenv import load_dotenv
 import os
 load_dotenv()
@@ -190,8 +191,7 @@ with col2:   # CGPA + Internships
 st.divider()
 st.header("AI-Powered Insights")
 
-from groq import Groq
-client = Groq(api_key="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")
+
 
 # Data summary banao
 total = len(df)
