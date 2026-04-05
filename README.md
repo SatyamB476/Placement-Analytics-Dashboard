@@ -5,7 +5,7 @@
 ---
 
 ## 🔴 Live Demo
-> Run locally using the instructions below
+> https://placement-analytics-dashboard-medfzmsbpyva2rf7oaqinu.streamlit.app/
 
 ---
 
